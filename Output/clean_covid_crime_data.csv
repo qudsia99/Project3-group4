@@ -1,4 +1,78 @@
 Vector ID,Year,Month,Province,Crime Category,Crime Type,Coordinate,Value
+v1210497756,2022,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,44.0
+v1210497756,2019,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,43.0
+v1210497756,2020,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,39.0
+v1210497756,2020,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,38.0
+v1210497756,2019,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,36.0
+v1210497723,2019,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,34.0
+v1210497756,2020,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,33.0
+v1210497756,2021,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,32.0
+v1210497756,2022,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,32.0
+v1210497723,2020,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,31.0
+v1210497756,2021,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,30.0
+v1210497756,2019,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
+v1210497756,2019,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
+v1210497756,2020,2,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
+v1210497723,2021,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,29.0
+v1210497756,2019,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
+v1210497756,2019,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
+v1210497756,2021,1,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
+v1210497756,2019,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
+v1210497723,2020,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
+v1210497756,2020,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
+v1210497756,2020,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
+v1210497756,2020,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
+v1210497723,2021,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
+v1210497723,2021,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
+v1210497723,2019,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,26.0
+v1210497756,2019,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
+v1210497756,2021,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
+v1210497756,2022,1,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
+v1210497723,2020,2,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
+v1210497723,2020,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
+v1210497756,2020,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
+v1210497723,2021,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
+v1210497756,2021,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
+v1210497756,2021,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
+v1210497756,2020,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,23.0
+v1210497723,2021,2,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,23.0
+v1210497756,2022,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,23.0
+v1210497756,2019,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,22.0
+v1210497723,2021,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,22.0
+v1210497756,2021,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,22.0
+v1210497723,2019,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
+v1210497723,2019,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
+v1210497723,2019,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
+v1210497723,2020,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
+v1210497756,2021,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,21.0
+v1210497756,2021,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,21.0
+v1210497756,2019,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
+v1210497723,2019,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
+v1210497723,2020,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
+v1210497756,2020,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
+v1210497756,2021,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
+v1210497723,2021,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
+v1210497756,2022,2,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
+v1210497723,2020,11,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,19.0
+v1210497756,2021,2,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,19.0
+v1210497723,2021,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,19.0
+v1210497723,2019,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
+v1210497723,2019,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
+v1210497756,2020,1,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,18.0
+v1210497756,2020,6,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,18.0
+v1210497723,2021,1,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
+v1210497723,2020,8,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,17.0
+v1210497723,2020,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,17.0
+v1210497756,2021,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,17.0
+v1210497723,2019,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,16.0
+v1210497723,2020,7,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,16.0
+v1210497723,2021,4,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,15.0
+v1210497723,2020,12,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,14.0
+v1210497723,2021,9,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,14.0
+v1210497756,2022,5,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],14.9.1,14.0
+v1210497723,2020,1,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,13.0
+v1210497723,2021,10,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,13.0
+v1210497723,2019,3,Alberta,Assaults,Assault against peace or public officer (level 1) [1460],13.9.1,9.0
 v1210497717,2019,8,Alberta,Assaults,"Assaults by family (levels 1, 2, 3)",13.3.1,401.0
 v1210497717,2019,12,Alberta,Assaults,"Assaults by family (levels 1, 2, 3)",13.3.1,399.0
 v1210497717,2019,5,Alberta,Assaults,"Assaults by family (levels 1, 2, 3)",13.3.1,393.0
@@ -1782,80 +1856,86 @@ v1210497727,2020,12,Alberta,Threats,Uttering threats where relationship type is 
 v1210497727,2021,1,Alberta,Threats,Uttering threats where relationship type is unknown,13.13.1,0.0
 v1210497727,2021,2,Alberta,Threats,Uttering threats where relationship type is unknown,13.13.1,0.0
 v1210497727,2021,3,Alberta,Threats,Uttering threats where relationship type is unknown,13.13.1,0.0
-v1210497756,2022,3,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,44.0
-v1210497756,2019,9,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,43.0
-v1210497756,2020,3,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,39.0
-v1210497756,2020,5,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,38.0
-v1210497756,2019,8,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,36.0
-v1210497723,2019,10,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,34.0
-v1210497756,2020,4,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,33.0
-v1210497756,2021,9,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,32.0
-v1210497756,2022,6,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,32.0
-v1210497723,2020,6,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,31.0
-v1210497756,2021,12,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,30.0
-v1210497756,2019,4,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
-v1210497756,2019,10,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
-v1210497756,2020,2,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,29.0
-v1210497723,2021,8,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,29.0
-v1210497756,2019,3,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
-v1210497756,2019,11,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
-v1210497756,2021,1,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,28.0
-v1210497756,2019,6,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
-v1210497723,2020,4,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
-v1210497756,2020,8,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
-v1210497756,2020,9,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
-v1210497756,2020,10,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,27.0
-v1210497723,2021,7,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
-v1210497723,2021,11,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,27.0
-v1210497723,2019,5,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,26.0
-v1210497756,2019,12,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
-v1210497756,2021,11,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
-v1210497756,2022,1,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,26.0
-v1210497723,2020,2,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
-v1210497723,2020,5,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
-v1210497756,2020,12,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
-v1210497723,2021,3,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,24.0
-v1210497756,2021,3,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
-v1210497756,2021,4,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,24.0
-v1210497756,2020,7,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,23.0
-v1210497723,2021,2,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,23.0
-v1210497756,2022,4,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,23.0
-v1210497756,2019,5,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,22.0
-v1210497723,2021,5,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,22.0
-v1210497756,2021,5,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,22.0
-v1210497723,2019,6,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
-v1210497723,2019,8,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
-v1210497723,2019,11,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
-v1210497723,2020,9,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,21.0
-v1210497756,2021,6,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,21.0
-v1210497756,2021,8,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,21.0
-v1210497756,2019,7,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
-v1210497723,2019,12,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
-v1210497723,2020,3,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
-v1210497756,2020,11,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
-v1210497756,2021,10,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
-v1210497723,2021,12,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,20.0
-v1210497756,2022,2,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,20.0
-v1210497723,2020,11,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,19.0
-v1210497756,2021,2,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,19.0
-v1210497723,2021,6,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,19.0
-v1210497723,2019,4,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
-v1210497723,2019,7,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
-v1210497756,2020,1,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,18.0
-v1210497756,2020,6,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,18.0
-v1210497723,2021,1,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,18.0
-v1210497723,2020,8,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,17.0
-v1210497723,2020,10,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,17.0
-v1210497756,2021,7,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,17.0
-v1210497723,2019,9,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,16.0
-v1210497723,2020,7,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,16.0
-v1210497723,2021,4,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,15.0
-v1210497723,2020,12,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,14.0
-v1210497723,2021,9,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,14.0
-v1210497756,2022,5,Alberta,,Assault against peace or public officer (level 1) [1460],14.9.1,14.0
-v1210497723,2020,1,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,13.0
-v1210497723,2021,10,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,13.0
-v1210497723,2019,3,Alberta,,Assault against peace or public officer (level 1) [1460],13.9.1,9.0
+v1210497789,2019,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,21.0
+v1210497789,2019,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
+v1210497789,2020,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
+v1210497789,2021,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
+v1210497789,2019,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,18.0
+v1210497789,2021,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,18.0
+v1210497789,2019,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,17.0
+v1210497789,2019,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
+v1210497789,2019,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
+v1210497789,2020,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
+v1210497789,2021,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
+v1210497789,2020,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
+v1210497789,2021,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
+v1210497789,2022,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
+v1210497789,2019,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,14.0
+v1210497789,2020,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,14.0
+v1210497789,2019,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,13.0
+v1210497789,2019,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,13.0
+v1210497789,2021,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,12.0
+v1210497789,2022,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,12.0
+v1210497789,2020,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
+v1210497789,2020,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
+v1210497789,2021,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
+v1210497789,2021,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
+v1210497789,2020,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
+v1210497789,2020,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
+v1210497789,2020,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
+v1210497789,2021,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
+v1210497789,2021,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
+v1210497789,2019,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
+v1210497789,2022,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
+v1210497789,2022,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
+v1210497789,2020,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
+v1210497789,2021,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
+v1210497789,2021,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
+v1210497789,2022,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
+v1210497822,2020,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,7.0
+v1210497789,2020,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,7.0
+v1210497789,2021,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,7.0
+v1210497822,2019,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
+v1210497822,2020,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
+v1210497789,2020,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,6.0
+v1210497822,2021,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
+v1210497822,2019,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
+v1210497822,2020,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
+v1210497822,2021,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
+v1210497822,2021,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
+v1210497789,2022,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],15.9.1,5.0
+v1210497822,2019,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2019,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2019,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2021,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2022,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2022,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
+v1210497822,2019,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2019,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2019,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2020,4,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2020,7,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2021,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2021,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
+v1210497822,2019,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2019,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2020,5,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2020,9,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2021,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2021,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2021,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
+v1210497822,2020,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2020,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2020,10,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2020,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2020,12,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2021,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2021,8,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2021,11,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2022,1,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2022,3,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2022,6,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
+v1210497822,2022,2,British Columbia,Assaults,Assault against peace or public officer (level 1) [1460],16.9.1,0.0
 v1210497783,2020,5,British Columbia,Assaults,"Assaults by family (levels 1, 2, 3)",15.3.1,105.0
 v1210497783,2021,7,British Columbia,Assaults,"Assaults by family (levels 1, 2, 3)",15.3.1,105.0
 v1210497783,2019,5,British Columbia,Assaults,"Assaults by family (levels 1, 2, 3)",15.3.1,95.0
@@ -4187,86 +4267,46 @@ v1210497793,2022,5,British Columbia,Threats,Uttering threats where relationship 
 v1210497826,2022,5,British Columbia,Threats,Uttering threats where relationship type is unknown,16.13.1,0.0
 v1210497793,2022,6,British Columbia,Threats,Uttering threats where relationship type is unknown,15.13.1,0.0
 v1210497826,2022,6,British Columbia,Threats,Uttering threats where relationship type is unknown,16.13.1,0.0
-v1210497789,2019,7,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,21.0
-v1210497789,2019,8,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
-v1210497789,2020,7,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
-v1210497789,2021,10,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,20.0
-v1210497789,2019,4,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,18.0
-v1210497789,2021,3,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,18.0
-v1210497789,2019,5,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,17.0
-v1210497789,2019,6,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
-v1210497789,2019,12,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
-v1210497789,2020,12,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
-v1210497789,2021,6,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,16.0
-v1210497789,2020,4,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
-v1210497789,2021,12,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
-v1210497789,2022,2,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,15.0
-v1210497789,2019,10,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,14.0
-v1210497789,2020,3,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,14.0
-v1210497789,2019,9,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,13.0
-v1210497789,2019,11,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,13.0
-v1210497789,2021,8,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,12.0
-v1210497789,2022,5,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,12.0
-v1210497789,2020,2,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
-v1210497789,2020,6,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
-v1210497789,2021,2,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
-v1210497789,2021,9,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,11.0
-v1210497789,2020,1,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
-v1210497789,2020,5,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
-v1210497789,2020,9,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
-v1210497789,2021,5,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
-v1210497789,2021,7,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,10.0
-v1210497789,2019,3,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
-v1210497789,2022,3,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
-v1210497789,2022,6,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,9.0
-v1210497789,2020,10,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
-v1210497789,2021,4,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
-v1210497789,2021,11,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
-v1210497789,2022,4,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,8.0
-v1210497822,2020,8,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,7.0
-v1210497789,2020,11,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,7.0
-v1210497789,2021,1,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,7.0
-v1210497822,2019,4,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
-v1210497822,2020,6,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
-v1210497789,2020,8,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,6.0
-v1210497822,2021,4,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,6.0
-v1210497822,2019,7,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
-v1210497822,2020,2,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
-v1210497822,2021,5,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
-v1210497822,2021,9,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,5.0
-v1210497789,2022,1,British Columbia,,Assault against peace or public officer (level 1) [1460],15.9.1,5.0
-v1210497822,2019,9,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2019,10,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2019,11,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2021,7,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2022,4,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2022,5,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,4.0
-v1210497822,2019,3,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2019,8,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2019,12,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2020,4,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2020,7,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2021,3,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2021,12,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,3.0
-v1210497822,2019,5,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2019,6,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2020,5,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2020,9,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2021,1,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2021,2,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2021,10,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,2.0
-v1210497822,2020,1,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2020,3,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2020,10,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2020,11,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2020,12,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2021,6,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2021,8,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2021,11,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2022,1,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2022,3,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2022,6,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,1.0
-v1210497822,2022,2,British Columbia,,Assault against peace or public officer (level 1) [1460],16.9.1,0.0
+v1210497855,2020,10,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,278.0
+v1210497855,2019,8,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,275.0
+v1210497855,2021,7,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,274.0
+v1210497855,2020,5,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,273.0
+v1210497855,2020,2,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,272.0
+v1210497855,2019,5,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,270.0
+v1210497855,2019,7,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,270.0
+v1210497855,2019,10,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,262.0
+v1210497855,2019,6,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,261.0
+v1210497855,2022,6,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,259.0
+v1210497855,2019,4,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,258.0
+v1210497855,2021,5,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,254.0
+v1210497855,2020,3,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,252.0
+v1210497855,2019,3,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,250.0
+v1210497855,2019,9,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,250.0
+v1210497855,2020,6,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,249.0
+v1210497855,2021,6,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,246.0
+v1210497855,2019,11,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,243.0
+v1210497855,2019,12,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,240.0
+v1210497855,2020,1,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,237.0
+v1210497855,2021,8,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,237.0
+v1210497855,2020,7,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,235.0
+v1210497855,2021,10,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,233.0
+v1210497855,2021,11,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,228.0
+v1210497855,2020,11,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,226.0
+v1210497855,2022,4,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,224.0
+v1210497855,2020,4,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,221.0
+v1210497855,2022,3,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,221.0
+v1210497855,2021,4,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,219.0
+v1210497855,2021,12,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,218.0
+v1210497855,2021,1,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,216.0
+v1210497855,2020,9,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,215.0
+v1210497855,2021,9,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,211.0
+v1210497855,2020,8,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,206.0
+v1210497855,2022,1,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,206.0
+v1210497855,2020,12,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,197.0
+v1210497855,2021,2,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,197.0
+v1210497855,2022,2,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,196.0
+v1210497855,2022,5,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,168.0
+v1210497855,2021,3,Canada,Assaults,Assault against peace or public officer (level 1) [1460],17.9.1,166.0
 v1210497849,2020,7,Canada,Assaults,"Assaults by family (levels 1, 2, 3)",17.3.1,2393.0
 v1210497849,2020,8,Canada,Assaults,"Assaults by family (levels 1, 2, 3)",17.3.1,2366.0
 v1210497849,2019,8,Canada,Assaults,"Assaults by family (levels 1, 2, 3)",17.3.1,2359.0
@@ -5254,46 +5294,46 @@ v1210497859,2021,12,Canada,Threats,Uttering threats where relationship type is u
 v1210497859,2021,1,Canada,Threats,Uttering threats where relationship type is unknown,17.13.1,82.0
 v1210497859,2021,3,Canada,Threats,Uttering threats where relationship type is unknown,17.13.1,79.0
 v1210497859,2021,2,Canada,Threats,Uttering threats where relationship type is unknown,17.13.1,71.0
-v1210497855,2020,10,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,278.0
-v1210497855,2019,8,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,275.0
-v1210497855,2021,7,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,274.0
-v1210497855,2020,5,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,273.0
-v1210497855,2020,2,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,272.0
-v1210497855,2019,5,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,270.0
-v1210497855,2019,7,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,270.0
-v1210497855,2019,10,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,262.0
-v1210497855,2019,6,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,261.0
-v1210497855,2022,6,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,259.0
-v1210497855,2019,4,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,258.0
-v1210497855,2021,5,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,254.0
-v1210497855,2020,3,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,252.0
-v1210497855,2019,3,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,250.0
-v1210497855,2019,9,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,250.0
-v1210497855,2020,6,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,249.0
-v1210497855,2021,6,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,246.0
-v1210497855,2019,11,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,243.0
-v1210497855,2019,12,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,240.0
-v1210497855,2020,1,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,237.0
-v1210497855,2021,8,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,237.0
-v1210497855,2020,7,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,235.0
-v1210497855,2021,10,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,233.0
-v1210497855,2021,11,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,228.0
-v1210497855,2020,11,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,226.0
-v1210497855,2022,4,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,224.0
-v1210497855,2020,4,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,221.0
-v1210497855,2022,3,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,221.0
-v1210497855,2021,4,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,219.0
-v1210497855,2021,12,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,218.0
-v1210497855,2021,1,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,216.0
-v1210497855,2020,9,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,215.0
-v1210497855,2021,9,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,211.0
-v1210497855,2020,8,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,206.0
-v1210497855,2022,1,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,206.0
-v1210497855,2020,12,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,197.0
-v1210497855,2021,2,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,197.0
-v1210497855,2022,2,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,196.0
-v1210497855,2022,5,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,168.0
-v1210497855,2021,3,Canada,,Assault against peace or public officer (level 1) [1460],17.9.1,166.0
+v1210497624,2019,7,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,43.0
+v1210497624,2019,5,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,39.0
+v1210497624,2019,12,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,37.0
+v1210497624,2022,3,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,37.0
+v1210497624,2020,7,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,35.0
+v1210497624,2021,11,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,32.0
+v1210497624,2021,3,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,31.0
+v1210497624,2020,6,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,29.0
+v1210497624,2019,10,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,28.0
+v1210497624,2019,11,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,28.0
+v1210497624,2022,6,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,27.0
+v1210497624,2019,6,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,26.0
+v1210497624,2020,2,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,26.0
+v1210497624,2021,12,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,25.0
+v1210497624,2019,3,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
+v1210497624,2020,1,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
+v1210497624,2020,10,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
+v1210497624,2021,4,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
+v1210497624,2021,7,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
+v1210497624,2021,9,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,23.0
+v1210497624,2019,9,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
+v1210497624,2020,12,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
+v1210497624,2022,4,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
+v1210497624,2022,5,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
+v1210497624,2021,1,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,21.0
+v1210497624,2021,8,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,21.0
+v1210497624,2021,2,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,20.0
+v1210497624,2022,1,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,20.0
+v1210497624,2021,5,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,19.0
+v1210497624,2021,10,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,19.0
+v1210497624,2019,4,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
+v1210497624,2019,8,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
+v1210497624,2020,3,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
+v1210497624,2022,2,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,17.0
+v1210497624,2020,5,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,15.0
+v1210497624,2020,4,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,14.0
+v1210497624,2021,6,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,14.0
+v1210497624,2020,8,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,12.0
+v1210497624,2020,11,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,12.0
+v1210497624,2020,9,Manitoba,Assaults,Assault against peace or public officer (level 1) [1460],10.9.1,10.0
 v1210497618,2021,7,Manitoba,Assaults,"Assaults by family (levels 1, 2, 3)",10.3.1,94.0
 v1210497618,2019,7,Manitoba,Assaults,"Assaults by family (levels 1, 2, 3)",10.3.1,85.0
 v1210497618,2020,7,Manitoba,Assaults,"Assaults by family (levels 1, 2, 3)",10.3.1,85.0
@@ -6282,46 +6322,46 @@ v1210497628,2020,8,Manitoba,Threats,Uttering threats where relationship type is 
 v1210497628,2020,9,Manitoba,Threats,Uttering threats where relationship type is unknown,10.13.1,0.0
 v1210497628,2020,10,Manitoba,Threats,Uttering threats where relationship type is unknown,10.13.1,0.0
 v1210497628,2021,3,Manitoba,Threats,Uttering threats where relationship type is unknown,10.13.1,0.0
-v1210497624,2019,7,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,43.0
-v1210497624,2019,5,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,39.0
-v1210497624,2019,12,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,37.0
-v1210497624,2022,3,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,37.0
-v1210497624,2020,7,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,35.0
-v1210497624,2021,11,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,32.0
-v1210497624,2021,3,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,31.0
-v1210497624,2020,6,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,29.0
-v1210497624,2019,10,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,28.0
-v1210497624,2019,11,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,28.0
-v1210497624,2022,6,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,27.0
-v1210497624,2019,6,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,26.0
-v1210497624,2020,2,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,26.0
-v1210497624,2021,12,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,25.0
-v1210497624,2019,3,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
-v1210497624,2020,1,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
-v1210497624,2020,10,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
-v1210497624,2021,4,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
-v1210497624,2021,7,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,24.0
-v1210497624,2021,9,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,23.0
-v1210497624,2019,9,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
-v1210497624,2020,12,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
-v1210497624,2022,4,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
-v1210497624,2022,5,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,22.0
-v1210497624,2021,1,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,21.0
-v1210497624,2021,8,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,21.0
-v1210497624,2021,2,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,20.0
-v1210497624,2022,1,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,20.0
-v1210497624,2021,5,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,19.0
-v1210497624,2021,10,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,19.0
-v1210497624,2019,4,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
-v1210497624,2019,8,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
-v1210497624,2020,3,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,18.0
-v1210497624,2022,2,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,17.0
-v1210497624,2020,5,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,15.0
-v1210497624,2020,4,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,14.0
-v1210497624,2021,6,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,14.0
-v1210497624,2020,8,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,12.0
-v1210497624,2020,11,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,12.0
-v1210497624,2020,9,Manitoba,,Assault against peace or public officer (level 1) [1460],10.9.1,10.0
+v1210497360,2019,3,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2020,4,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2020,8,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2020,9,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2021,12,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2022,6,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
+v1210497360,2019,4,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,5,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,6,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,7,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,8,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,9,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,10,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,11,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2019,12,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,1,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,2,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,3,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,5,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,6,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,7,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,10,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,11,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2020,12,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,1,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,2,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,3,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,4,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,5,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,6,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,7,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,8,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,9,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,10,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2021,11,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2022,1,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2022,2,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2022,3,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2022,4,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497360,2022,5,New Brunswick,Assaults,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
 v1210497354,2020,2,New Brunswick,Assaults,"Assaults by family (levels 1, 2, 3)",2.3.1,9.0
 v1210497354,2020,3,New Brunswick,Assaults,"Assaults by family (levels 1, 2, 3)",2.3.1,9.0
 v1210497354,2020,6,New Brunswick,Assaults,"Assaults by family (levels 1, 2, 3)",2.3.1,8.0
@@ -7498,46 +7538,46 @@ v1210497364,2022,3,New Brunswick,Threats,Uttering threats where relationship typ
 v1210497364,2022,4,New Brunswick,Threats,Uttering threats where relationship type is unknown,2.13.1,0.0
 v1210497364,2022,5,New Brunswick,Threats,Uttering threats where relationship type is unknown,2.13.1,0.0
 v1210497364,2022,6,New Brunswick,Threats,Uttering threats where relationship type is unknown,2.13.1,0.0
-v1210497360,2019,3,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2020,4,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2020,8,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2020,9,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2021,12,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2022,6,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,1.0
-v1210497360,2019,4,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,5,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,6,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,7,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,8,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,9,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,10,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,11,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2019,12,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,1,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,2,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,3,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,5,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,6,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,7,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,10,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,11,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2020,12,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,1,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,2,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,3,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,4,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,5,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,6,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,7,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,8,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,9,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,10,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2021,11,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2022,1,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2022,2,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2022,3,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2022,4,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
-v1210497360,2022,5,New Brunswick,,Assault against peace or public officer (level 1) [1460],2.9.1,0.0
+v1210497327,2020,10,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,12.0
+v1210497327,2021,7,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,11.0
+v1210497327,2022,6,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,11.0
+v1210497327,2020,11,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,10.0
+v1210497327,2021,9,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,10.0
+v1210497327,2021,6,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,9.0
+v1210497327,2019,7,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,8.0
+v1210497327,2022,5,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,8.0
+v1210497327,2019,10,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
+v1210497327,2020,5,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
+v1210497327,2021,11,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
+v1210497327,2021,12,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
+v1210497327,2022,3,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
+v1210497327,2019,6,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2020,8,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2021,4,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2021,8,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2022,1,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2022,4,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
+v1210497327,2019,4,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2019,5,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2019,8,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2019,11,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2020,1,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2020,4,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2020,7,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2021,1,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
+v1210497327,2019,9,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
+v1210497327,2020,3,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
+v1210497327,2020,6,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
+v1210497327,2021,10,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
+v1210497327,2019,3,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
+v1210497327,2021,5,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
+v1210497327,2022,2,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
+v1210497327,2020,2,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,2.0
+v1210497327,2021,2,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,2.0
+v1210497327,2019,12,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
+v1210497327,2020,9,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
+v1210497327,2020,12,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
+v1210497327,2021,3,Newfoundland and Labrador,Assaults,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
 v1210497321,2022,1,Newfoundland and Labrador,Assaults,"Assaults by family (levels 1, 2, 3)",1.3.1,28.0
 v1210497321,2019,10,Newfoundland and Labrador,Assaults,"Assaults by family (levels 1, 2, 3)",1.3.1,25.0
 v1210497321,2021,1,Newfoundland and Labrador,Assaults,"Assaults by family (levels 1, 2, 3)",1.3.1,25.0
@@ -8714,46 +8754,281 @@ v1210497331,2019,12,Newfoundland and Labrador,Threats,Uttering threats where rel
 v1210497331,2019,10,Newfoundland and Labrador,Threats,Uttering threats where relationship type is unknown,1.13.1,60.0
 v1210497331,2020,4,Newfoundland and Labrador,Threats,Uttering threats where relationship type is unknown,1.13.1,60.0
 v1210497331,2019,5,Newfoundland and Labrador,Threats,Uttering threats where relationship type is unknown,1.13.1,59.0
-v1210497327,2020,10,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,12.0
-v1210497327,2021,7,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,11.0
-v1210497327,2022,6,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,11.0
-v1210497327,2020,11,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,10.0
-v1210497327,2021,9,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,10.0
-v1210497327,2021,6,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,9.0
-v1210497327,2019,7,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,8.0
-v1210497327,2022,5,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,8.0
-v1210497327,2019,10,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
-v1210497327,2020,5,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
-v1210497327,2021,11,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
-v1210497327,2021,12,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
-v1210497327,2022,3,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,7.0
-v1210497327,2019,6,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2020,8,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2021,4,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2021,8,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2022,1,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2022,4,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,6.0
-v1210497327,2019,4,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2019,5,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2019,8,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2019,11,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2020,1,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2020,4,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2020,7,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2021,1,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,5.0
-v1210497327,2019,9,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
-v1210497327,2020,3,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
-v1210497327,2020,6,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
-v1210497327,2021,10,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,4.0
-v1210497327,2019,3,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
-v1210497327,2021,5,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
-v1210497327,2022,2,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,3.0
-v1210497327,2020,2,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,2.0
-v1210497327,2021,2,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,2.0
-v1210497327,2019,12,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
-v1210497327,2020,9,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
-v1210497327,2020,12,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
-v1210497327,2021,3,Newfoundland and Labrador,,Assault against peace or public officer (level 1) [1460],1.9.1,0.0
+v1210497525,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,68.0
+v1210497525,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,68.0
+v1210497525,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,66.0
+v1210497525,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,65.0
+v1210497525,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,65.0
+v1210497525,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
+v1210497525,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
+v1210497525,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
+v1210497591,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,57.0
+v1210497591,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,54.0
+v1210497591,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,54.0
+v1210497525,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
+v1210497525,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
+v1210497525,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
+v1210497525,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
+v1210497525,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
+v1210497525,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,50.0
+v1210497591,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,50.0
+v1210497591,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,49.0
+v1210497591,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,49.0
+v1210497525,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
+v1210497591,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,48.0
+v1210497525,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
+v1210497525,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
+v1210497591,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,48.0
+v1210497525,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
+v1210497525,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,47.0
+v1210497525,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,47.0
+v1210497525,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
+v1210497525,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
+v1210497525,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
+v1210497591,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,46.0
+v1210497525,2022,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
+v1210497591,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,45.0
+v1210497591,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,45.0
+v1210497525,2022,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,44.0
+v1210497591,2022,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,44.0
+v1210497525,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,43.0
+v1210497591,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,43.0
+v1210497591,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,42.0
+v1210497591,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,42.0
+v1210497525,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,42.0
+v1210497525,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,42.0
+v1210497591,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,41.0
+v1210497591,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,40.0
+v1210497591,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
+v1210497591,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
+v1210497591,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
+v1210497525,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,39.0
+v1210497525,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,37.0
+v1210497525,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,36.0
+v1210497591,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
+v1210497591,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
+v1210497591,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
+v1210497591,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
+v1210497591,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
+v1210497525,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,35.0
+v1210497591,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
+v1210497591,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
+v1210497525,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,35.0
+v1210497591,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
+v1210497591,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,34.0
+v1210497525,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,34.0
+v1210497591,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,34.0
+v1210497591,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
+v1210497591,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
+v1210497591,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
+v1210497591,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,30.0
+v1210497525,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,30.0
+v1210497525,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,30.0
+v1210497525,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,29.0
+v1210497525,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,29.0
+v1210497591,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,29.0
+v1210497525,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,28.0
+v1210497591,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,27.0
+v1210497525,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],7.9.1,26.0
+v1210497591,2022,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,26.0
+v1210497393,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,25.0
+v1210497591,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,23.0
+v1210497492,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,22.0
+v1210497591,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,22.0
+v1210497393,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,21.0
+v1210497393,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,21.0
+v1210497558,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,19.0
+v1210497591,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],9.9.1,19.0
+v1210497393,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,18.0
+v1210497393,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,18.0
+v1210497459,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,17.0
+v1210497558,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,17.0
+v1210497558,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,16.0
+v1210497558,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,16.0
+v1210497393,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,16.0
+v1210497393,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,16.0
+v1210497393,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,15.0
+v1210497558,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
+v1210497393,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,15.0
+v1210497558,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
+v1210497558,2022,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
+v1210497393,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
+v1210497393,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
+v1210497492,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,14.0
+v1210497492,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,14.0
+v1210497393,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
+v1210497558,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,14.0
+v1210497459,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,13.0
+v1210497492,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,13.0
+v1210497558,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,13.0
+v1210497393,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,13.0
+v1210497393,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,13.0
+v1210497393,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
+v1210497558,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
+v1210497393,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
+v1210497558,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
+v1210497558,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
+v1210497393,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
+v1210497393,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
+v1210497558,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
+v1210497393,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
+v1210497492,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,12.0
+v1210497492,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,12.0
+v1210497459,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
+v1210497492,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
+v1210497492,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
+v1210497492,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
+v1210497393,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
+v1210497459,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
+v1210497459,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
+v1210497459,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
+v1210497393,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
+v1210497426,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,11.0
+v1210497492,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
+v1210497393,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
+v1210497492,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
+v1210497558,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,11.0
+v1210497459,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
+v1210497426,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,10.0
+v1210497492,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
+v1210497393,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497492,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
+v1210497393,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497558,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
+v1210497393,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497558,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
+v1210497393,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497393,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497492,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
+v1210497459,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,10.0
+v1210497558,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
+v1210497393,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
+v1210497459,2022,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,10.0
+v1210497492,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
+v1210497393,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497393,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497426,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,9.0
+v1210497558,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497426,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,9.0
+v1210497492,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
+v1210497558,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497558,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497393,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497459,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497558,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497558,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497393,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497459,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497459,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497558,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497492,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
+v1210497558,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497459,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497492,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
+v1210497558,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
+v1210497393,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497459,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497492,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
+v1210497459,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
+v1210497393,2022,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
+v1210497558,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
+v1210497558,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
+v1210497426,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497393,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,8.0
+v1210497426,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497426,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497492,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
+v1210497558,2020,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
+v1210497426,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497492,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
+v1210497492,2020,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
+v1210497426,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497492,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
+v1210497459,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
+v1210497492,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
+v1210497558,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
+v1210497426,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
+v1210497459,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
+v1210497459,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
+v1210497558,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
+v1210497459,2019,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497558,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,7.0
+v1210497426,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
+v1210497459,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497492,2019,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
+v1210497459,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497492,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
+v1210497492,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
+v1210497459,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497459,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497426,2020,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
+v1210497492,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
+v1210497492,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
+v1210497558,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,7.0
+v1210497426,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
+v1210497459,2022,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
+v1210497459,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497459,2019,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497459,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497558,2019,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497558,2019,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497459,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497426,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
+v1210497492,2020,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,6.0
+v1210497558,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497492,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,6.0
+v1210497459,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497426,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
+v1210497426,2021,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
+v1210497393,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,6.0
+v1210497459,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497558,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497459,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
+v1210497558,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497558,2022,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
+v1210497426,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
+v1210497426,2022,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
+v1210497426,2019,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497426,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497459,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
+v1210497426,2020,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497459,2020,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
+v1210497426,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497459,2021,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
+v1210497426,2021,6,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497558,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,5.0
+v1210497426,2021,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497459,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
+v1210497393,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,5.0
+v1210497459,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
+v1210497426,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
+v1210497393,2020,5,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,4.0
+v1210497492,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
+v1210497426,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
+v1210497426,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
+v1210497558,2020,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],8.9.1,4.0
+v1210497459,2021,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,4.0
+v1210497492,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
+v1210497426,2021,7,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
+v1210497492,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
+v1210497492,2021,10,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
+v1210497393,2021,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],3.9.1,4.0
+v1210497426,2022,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
+v1210497426,2022,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
+v1210497426,2019,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
+v1210497426,2019,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
+v1210497426,2019,12,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
+v1210497426,2021,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
+v1210497426,2021,11,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
+v1210497426,2019,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
+v1210497492,2020,2,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,2.0
+v1210497426,2020,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
+v1210497459,2020,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,2.0
+v1210497492,2020,9,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],6.9.1,2.0
+v1210497426,2021,3,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
+v1210497426,2021,8,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
+v1210497426,2022,1,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
+v1210497459,2022,4,Ontario,Assaults,Assault against peace or public officer (level 1) [1460],5.9.1,2.0
 v1210497585,2022,6,Ontario,Assaults,"Assaults by family (levels 1, 2, 3)",9.3.1,339.0
 v1210497585,2019,7,Ontario,Assaults,"Assaults by family (levels 1, 2, 3)",9.3.1,271.0
 v1210497585,2019,8,Ontario,Assaults,"Assaults by family (levels 1, 2, 3)",9.3.1,247.0
@@ -16399,281 +16674,82 @@ v1210497595,2022,4,Ontario,Threats,Uttering threats where relationship type is u
 v1210497463,2022,5,Ontario,Threats,Uttering threats where relationship type is unknown,5.13.1,0.0
 v1210497595,2022,5,Ontario,Threats,Uttering threats where relationship type is unknown,9.13.1,0.0
 v1210497595,2022,6,Ontario,Threats,Uttering threats where relationship type is unknown,9.13.1,0.0
-v1210497525,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,68.0
-v1210497525,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,68.0
-v1210497525,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,66.0
-v1210497525,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,65.0
-v1210497525,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,65.0
-v1210497525,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
-v1210497525,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
-v1210497525,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,60.0
-v1210497591,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,57.0
-v1210497591,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,54.0
-v1210497591,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,54.0
-v1210497525,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
-v1210497525,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
-v1210497525,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
-v1210497525,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
-v1210497525,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,51.0
-v1210497525,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,50.0
-v1210497591,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,50.0
-v1210497591,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,49.0
-v1210497591,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,49.0
-v1210497525,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
-v1210497591,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,48.0
-v1210497525,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
-v1210497525,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
-v1210497591,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,48.0
-v1210497525,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,48.0
-v1210497525,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,47.0
-v1210497525,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,47.0
-v1210497525,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
-v1210497525,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
-v1210497525,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
-v1210497591,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,46.0
-v1210497525,2022,6,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,46.0
-v1210497591,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,45.0
-v1210497591,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,45.0
-v1210497525,2022,3,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,44.0
-v1210497591,2022,3,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,44.0
-v1210497525,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,43.0
-v1210497591,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,43.0
-v1210497591,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,42.0
-v1210497591,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,42.0
-v1210497525,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,42.0
-v1210497525,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,42.0
-v1210497591,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,41.0
-v1210497591,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,40.0
-v1210497591,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
-v1210497591,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
-v1210497591,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,39.0
-v1210497525,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,39.0
-v1210497525,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,37.0
-v1210497525,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,36.0
-v1210497591,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
-v1210497591,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
-v1210497591,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
-v1210497591,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,36.0
-v1210497591,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
-v1210497525,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,35.0
-v1210497591,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
-v1210497591,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
-v1210497525,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,35.0
-v1210497591,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,35.0
-v1210497591,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,34.0
-v1210497525,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,34.0
-v1210497591,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,34.0
-v1210497591,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
-v1210497591,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
-v1210497591,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,33.0
-v1210497591,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,30.0
-v1210497525,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,30.0
-v1210497525,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,30.0
-v1210497525,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,29.0
-v1210497525,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,29.0
-v1210497591,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,29.0
-v1210497525,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,28.0
-v1210497591,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,27.0
-v1210497525,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],7.9.1,26.0
-v1210497591,2022,6,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,26.0
-v1210497393,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,25.0
-v1210497591,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,23.0
-v1210497492,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,22.0
-v1210497591,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,22.0
-v1210497393,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,21.0
-v1210497393,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,21.0
-v1210497558,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,19.0
-v1210497591,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],9.9.1,19.0
-v1210497393,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,18.0
-v1210497393,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,18.0
-v1210497459,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,17.0
-v1210497558,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,17.0
-v1210497558,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,16.0
-v1210497558,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,16.0
-v1210497393,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,16.0
-v1210497393,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,16.0
-v1210497393,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,15.0
-v1210497558,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
-v1210497393,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,15.0
-v1210497558,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
-v1210497558,2022,6,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,15.0
-v1210497393,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
-v1210497393,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
-v1210497492,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,14.0
-v1210497492,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,14.0
-v1210497393,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,14.0
-v1210497558,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,14.0
-v1210497459,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,13.0
-v1210497492,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,13.0
-v1210497558,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,13.0
-v1210497393,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,13.0
-v1210497393,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,13.0
-v1210497393,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
-v1210497558,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
-v1210497393,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
-v1210497558,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
-v1210497558,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
-v1210497393,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
-v1210497393,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
-v1210497558,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,12.0
-v1210497393,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,12.0
-v1210497492,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,12.0
-v1210497492,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,12.0
-v1210497459,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
-v1210497492,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
-v1210497492,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
-v1210497492,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
-v1210497393,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
-v1210497459,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
-v1210497459,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
-v1210497459,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
-v1210497393,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
-v1210497426,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,11.0
-v1210497492,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
-v1210497393,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,11.0
-v1210497492,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,11.0
-v1210497558,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,11.0
-v1210497459,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,11.0
-v1210497426,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,10.0
-v1210497492,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
-v1210497393,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497492,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
-v1210497393,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497558,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
-v1210497393,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497558,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
-v1210497393,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497393,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497492,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,10.0
-v1210497459,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,10.0
-v1210497558,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,10.0
-v1210497393,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,10.0
-v1210497459,2022,3,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,10.0
-v1210497492,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
-v1210497393,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497393,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497426,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,9.0
-v1210497558,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497426,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,9.0
-v1210497492,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
-v1210497558,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497558,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497393,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497459,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497558,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497558,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497393,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497459,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497459,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497558,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497492,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
-v1210497558,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497459,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497492,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
-v1210497558,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,9.0
-v1210497393,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497459,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497492,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,9.0
-v1210497459,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,9.0
-v1210497393,2022,6,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,9.0
-v1210497558,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
-v1210497558,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
-v1210497426,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497393,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,8.0
-v1210497426,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497426,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497492,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
-v1210497558,2020,3,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
-v1210497426,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497492,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
-v1210497492,2020,12,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
-v1210497426,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497492,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
-v1210497459,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
-v1210497492,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,8.0
-v1210497558,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
-v1210497426,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,8.0
-v1210497459,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
-v1210497459,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,8.0
-v1210497558,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,8.0
-v1210497459,2019,5,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497558,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,7.0
-v1210497426,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
-v1210497459,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497492,2019,10,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
-v1210497459,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497492,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
-v1210497492,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
-v1210497459,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497459,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497426,2020,11,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
-v1210497492,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
-v1210497492,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,7.0
-v1210497558,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,7.0
-v1210497426,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,7.0
-v1210497459,2022,5,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,7.0
-v1210497459,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497459,2019,6,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497459,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497558,2019,7,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497558,2019,11,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497459,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497426,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
-v1210497492,2020,1,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,6.0
-v1210497558,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497492,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,6.0
-v1210497459,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497426,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
-v1210497426,2021,1,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
-v1210497393,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,6.0
-v1210497459,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497558,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497459,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,6.0
-v1210497558,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497558,2022,3,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,6.0
-v1210497426,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
-v1210497426,2022,6,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,6.0
-v1210497426,2019,8,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497426,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497459,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
-v1210497426,2020,6,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497459,2020,7,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
-v1210497426,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497459,2021,5,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
-v1210497426,2021,6,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497558,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,5.0
-v1210497426,2021,9,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497459,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
-v1210497393,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,5.0
-v1210497459,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,5.0
-v1210497426,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,5.0
-v1210497393,2020,5,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,4.0
-v1210497492,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
-v1210497426,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
-v1210497426,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
-v1210497558,2020,10,Ontario,,Assault against peace or public officer (level 1) [1460],8.9.1,4.0
-v1210497459,2021,2,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,4.0
-v1210497492,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
-v1210497426,2021,7,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
-v1210497492,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
-v1210497492,2021,10,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,4.0
-v1210497393,2021,12,Ontario,,Assault against peace or public officer (level 1) [1460],3.9.1,4.0
-v1210497426,2022,2,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
-v1210497426,2022,3,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,4.0
-v1210497426,2019,4,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
-v1210497426,2019,9,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
-v1210497426,2019,12,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
-v1210497426,2021,4,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
-v1210497426,2021,11,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,3.0
-v1210497426,2019,3,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
-v1210497492,2020,2,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,2.0
-v1210497426,2020,4,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
-v1210497459,2020,8,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,2.0
-v1210497492,2020,9,Ontario,,Assault against peace or public officer (level 1) [1460],6.9.1,2.0
-v1210497426,2021,3,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
-v1210497426,2021,8,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
-v1210497426,2022,1,Ontario,,Assault against peace or public officer (level 1) [1460],4.9.1,2.0
-v1210497459,2022,4,Ontario,,Assault against peace or public officer (level 1) [1460],5.9.1,2.0
+v1234840122,2020,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,81.0
+v1234840122,2021,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,74.0
+v1234840088,2019,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,71.0
+v1234840122,2020,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,71.0
+v1234840122,2021,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,70.0
+v1234840088,2019,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,69.0
+v1234840122,2019,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
+v1234840122,2020,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
+v1234840122,2021,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
+v1234840088,2019,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,64.0
+v1234840088,2019,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,60.0
+v1234840122,2020,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,59.0
+v1234840088,2021,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,59.0
+v1234840122,2021,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,59.0
+v1234840088,2021,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,59.0
+v1234840122,2019,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,58.0
+v1234840088,2020,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,58.0
+v1234840122,2020,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,57.0
+v1234840088,2019,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,56.0
+v1234840122,2019,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,56.0
+v1234840122,2019,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,55.0
+v1234840088,2019,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,54.0
+v1234840122,2019,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,54.0
+v1234840122,2019,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
+v1234840122,2019,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
+v1234840122,2020,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
+v1234840088,2020,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
+v1234840088,2022,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
+v1234840088,2022,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
+v1234840122,2022,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
+v1234840122,2020,5,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,51.0
+v1234840088,2021,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,51.0
+v1234840088,2021,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,50.0
+v1234840088,2020,7,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,49.0
+v1234840122,2019,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,48.0
+v1234840088,2019,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,48.0
+v1234840088,2020,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,48.0
+v1234840088,2020,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,47.0
+v1234840122,2020,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,47.0
+v1234840122,2020,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,46.0
+v1234840088,2020,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
+v1234840088,2021,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
+v1234840088,2021,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
+v1234840122,2019,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,45.0
+v1234840088,2019,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,44.0
+v1234840088,2020,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,44.0
+v1234840122,2021,9,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,43.0
+v1234840088,2021,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,43.0
+v1234840122,2019,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,42.0
+v1234840088,2019,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,42.0
+v1234840088,2021,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,42.0
+v1234840088,2020,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,41.0
+v1234840088,2021,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,41.0
+v1234840122,2022,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,40.0
+v1234840122,2022,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,39.0
+v1234840088,2020,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,38.0
+v1234840088,2019,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,37.0
+v1234840122,2020,3,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,37.0
+v1234840088,2022,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,37.0
+v1234840122,2020,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,36.0
+v1234840088,2021,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,36.0
+v1234840122,2021,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
+v1234840122,2021,6,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
+v1234840122,2021,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
+v1234840122,2020,11,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
+v1234840088,2021,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,34.0
+v1234840122,2021,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
+v1234840122,2021,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
+v1234840088,2020,8,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,33.0
+v1234840088,2020,10,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,31.0
+v1234840122,2022,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,30.0
+v1234840088,2021,4,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,27.0
+v1234840122,2021,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,26.0
+v1234840088,2020,12,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,25.0
+v1234840088,2022,1,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],18.9.1,22.0
+v1234840122,2021,2,Quebec,Assaults,Assault against peace or public officer (level 1) [1460],19.9.1,17.0
 v1234840116,2021,7,Quebec,Assaults,"Assaults by family (levels 1, 2, 3)",19.3.1,663.0
 v1234840116,2021,3,Quebec,Assaults,"Assaults by family (levels 1, 2, 3)",19.3.1,654.0
 v1234840116,2021,5,Quebec,Assaults,"Assaults by family (levels 1, 2, 3)",19.3.1,637.0
@@ -18498,82 +18574,84 @@ v1234840092,2022,3,Quebec,Threats,Uttering threats where relationship type is un
 v1234840126,2022,3,Quebec,Threats,Uttering threats where relationship type is unknown,19.13.1,0.0
 v1234840092,2022,4,Quebec,Threats,Uttering threats where relationship type is unknown,18.13.1,0.0
 v1234840126,2022,4,Quebec,Threats,Uttering threats where relationship type is unknown,19.13.1,0.0
-v1234840122,2020,2,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,81.0
-v1234840122,2021,8,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,74.0
-v1234840088,2019,7,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,71.0
-v1234840122,2020,6,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,71.0
-v1234840122,2021,5,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,70.0
-v1234840088,2019,5,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,69.0
-v1234840122,2019,5,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
-v1234840122,2020,9,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
-v1234840122,2021,3,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,65.0
-v1234840088,2019,8,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,64.0
-v1234840088,2019,9,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,60.0
-v1234840122,2020,7,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,59.0
-v1234840088,2021,5,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,59.0
-v1234840122,2021,7,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,59.0
-v1234840088,2021,9,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,59.0
-v1234840122,2019,3,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,58.0
-v1234840088,2020,6,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,58.0
-v1234840122,2020,1,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,57.0
-v1234840088,2019,4,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,56.0
-v1234840122,2019,8,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,56.0
-v1234840122,2019,6,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,55.0
-v1234840088,2019,6,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,54.0
-v1234840122,2019,11,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,54.0
-v1234840122,2019,7,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
-v1234840122,2019,12,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
-v1234840122,2020,4,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
-v1234840088,2020,5,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
-v1234840088,2022,2,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
-v1234840088,2022,3,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,53.0
-v1234840122,2022,3,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,53.0
-v1234840122,2020,5,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,51.0
-v1234840088,2021,3,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,51.0
-v1234840088,2021,7,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,50.0
-v1234840088,2020,7,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,49.0
-v1234840122,2019,9,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,48.0
-v1234840088,2019,10,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,48.0
-v1234840088,2020,3,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,48.0
-v1234840088,2020,4,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,47.0
-v1234840122,2020,10,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,47.0
-v1234840122,2020,8,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,46.0
-v1234840088,2020,11,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
-v1234840088,2021,8,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
-v1234840088,2021,10,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,46.0
-v1234840122,2019,10,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,45.0
-v1234840088,2019,3,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,44.0
-v1234840088,2020,9,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,44.0
-v1234840122,2021,9,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,43.0
-v1234840088,2021,11,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,43.0
-v1234840122,2019,4,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,42.0
-v1234840088,2019,11,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,42.0
-v1234840088,2021,6,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,42.0
-v1234840088,2020,1,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,41.0
-v1234840088,2021,12,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,41.0
-v1234840122,2022,2,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,40.0
-v1234840122,2022,4,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,39.0
-v1234840088,2020,2,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,38.0
-v1234840088,2019,12,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,37.0
-v1234840122,2020,3,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,37.0
-v1234840088,2022,4,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,37.0
-v1234840122,2020,12,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,36.0
-v1234840088,2021,1,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,36.0
-v1234840122,2021,1,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
-v1234840122,2021,6,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
-v1234840122,2021,11,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,35.0
-v1234840122,2020,11,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
-v1234840088,2021,2,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,34.0
-v1234840122,2021,4,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
-v1234840122,2021,10,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,34.0
-v1234840088,2020,8,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,33.0
-v1234840088,2020,10,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,31.0
-v1234840122,2022,1,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,30.0
-v1234840088,2021,4,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,27.0
-v1234840122,2021,12,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,26.0
-v1234840088,2020,12,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,25.0
-v1234840088,2022,1,Quebec,,Assault against peace or public officer (level 1) [1460],18.9.1,22.0
-v1234840122,2021,2,Quebec,,Assault against peace or public officer (level 1) [1460],19.9.1,17.0
+v1210497690,2019,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,30.0
+v1210497690,2020,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,24.0
+v1210497690,2022,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,24.0
+v1210497690,2019,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,23.0
+v1210497690,2019,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,21.0
+v1210497690,2020,1,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,21.0
+v1210497690,2022,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,20.0
+v1210497690,2019,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,19.0
+v1210497690,2020,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
+v1210497690,2021,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
+v1210497690,2021,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
+v1210497690,2021,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,14.0
+v1210497690,2019,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
+v1210497690,2020,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
+v1210497690,2020,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
+v1210497690,2021,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
+v1210497690,2020,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
+v1210497690,2021,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
+v1210497690,2021,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
+v1210497690,2019,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
+v1210497690,2019,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
+v1210497657,2020,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,11.0
+v1210497690,2022,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
+v1210497690,2019,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
+v1210497657,2019,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,10.0
+v1210497690,2020,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
+v1210497690,2020,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
+v1210497690,2020,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
+v1210497690,2020,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
+v1210497690,2021,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
+v1210497690,2021,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
+v1210497657,2019,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
+v1210497657,2019,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
+v1210497690,2019,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,8.0
+v1210497657,2020,1,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
+v1210497657,2019,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
+v1210497690,2020,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
+v1210497690,2021,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
+v1210497657,2021,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
+v1210497690,2022,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
+v1210497657,2022,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
+v1210497657,2019,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497690,2019,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
+v1210497657,2020,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497657,2020,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497690,2021,1,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
+v1210497657,2021,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497657,2021,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497657,2021,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497690,2021,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
+v1210497657,2021,12,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
+v1210497657,2020,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
+v1210497657,2020,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
+v1210497657,2021,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
+v1210497657,2021,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
+v1210497690,2021,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,5.0
+v1210497657,2022,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
+v1210497657,2019,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
+v1210497657,2019,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
+v1210497657,2021,1,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
+v1210497657,2022,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
+v1210497657,2022,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
+v1210497657,2020,2,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2020,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2020,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497690,2020,7,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],12.9.1,3.0
+v1210497657,2020,8,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2020,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2021,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2021,6,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
+v1210497657,2019,4,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
+v1210497657,2019,10,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
+v1210497657,2020,3,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
+v1210497657,2021,11,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
+v1210497657,2022,1,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
+v1210497657,2019,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
+v1210497657,2021,9,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
+v1210497657,2022,5,Saskatchewan,Assaults,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
 v1210497651,2020,7,Saskatchewan,Assaults,"Assaults by family (levels 1, 2, 3)",11.3.1,48.0
 v1210497684,2019,3,Saskatchewan,Assaults,"Assaults by family (levels 1, 2, 3)",12.3.1,42.0
 v1210497651,2019,5,Saskatchewan,Assaults,"Assaults by family (levels 1, 2, 3)",11.3.1,42.0
@@ -20864,81 +20942,3 @@ v1210497694,2022,4,Saskatchewan,Threats,Uttering threats where relationship type
 v1210497661,2022,5,Saskatchewan,Threats,Uttering threats where relationship type is unknown,11.13.1,0.0
 v1210497694,2022,5,Saskatchewan,Threats,Uttering threats where relationship type is unknown,12.13.1,0.0
 v1210497661,2022,6,Saskatchewan,Threats,Uttering threats where relationship type is unknown,11.13.1,0.0
-v1210497690,2019,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,30.0
-v1210497690,2020,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,24.0
-v1210497690,2022,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,24.0
-v1210497690,2019,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,23.0
-v1210497690,2019,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,21.0
-v1210497690,2020,1,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,21.0
-v1210497690,2022,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,20.0
-v1210497690,2019,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,19.0
-v1210497690,2020,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
-v1210497690,2021,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
-v1210497690,2021,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,15.0
-v1210497690,2021,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,14.0
-v1210497690,2019,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
-v1210497690,2020,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
-v1210497690,2020,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
-v1210497690,2021,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,13.0
-v1210497690,2020,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
-v1210497690,2021,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
-v1210497690,2021,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,12.0
-v1210497690,2019,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
-v1210497690,2019,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
-v1210497657,2020,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,11.0
-v1210497690,2022,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,11.0
-v1210497690,2019,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
-v1210497657,2019,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,10.0
-v1210497690,2020,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
-v1210497690,2020,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,10.0
-v1210497690,2020,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
-v1210497690,2020,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
-v1210497690,2021,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
-v1210497690,2021,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,9.0
-v1210497657,2019,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
-v1210497657,2019,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
-v1210497690,2019,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,8.0
-v1210497657,2020,1,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,8.0
-v1210497657,2019,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
-v1210497690,2020,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
-v1210497690,2021,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
-v1210497657,2021,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
-v1210497690,2022,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,7.0
-v1210497657,2022,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,7.0
-v1210497657,2019,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497690,2019,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
-v1210497657,2020,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497657,2020,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497690,2021,1,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
-v1210497657,2021,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497657,2021,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497657,2021,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497690,2021,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,6.0
-v1210497657,2021,12,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,6.0
-v1210497657,2020,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
-v1210497657,2020,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
-v1210497657,2021,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
-v1210497657,2021,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
-v1210497690,2021,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,5.0
-v1210497657,2022,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,5.0
-v1210497657,2019,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
-v1210497657,2019,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
-v1210497657,2021,1,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
-v1210497657,2022,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
-v1210497657,2022,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,4.0
-v1210497657,2020,2,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2020,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2020,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497690,2020,7,Saskatchewan,,Assault against peace or public officer (level 1) [1460],12.9.1,3.0
-v1210497657,2020,8,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2020,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2021,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2021,6,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,3.0
-v1210497657,2019,4,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
-v1210497657,2019,10,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
-v1210497657,2020,3,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
-v1210497657,2021,11,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
-v1210497657,2022,1,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,2.0
-v1210497657,2019,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
-v1210497657,2021,9,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
-v1210497657,2022,5,Saskatchewan,,Assault against peace or public officer (level 1) [1460],11.9.1,1.0
