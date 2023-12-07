@@ -8,6 +8,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, Table, Column, MetaData
 
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 user = 'postgres'
 password = 'postgres'
@@ -44,6 +45,8 @@ session = Session(engine)
 # Flask Setup
 #################################################
 app = Flask(__name__)
+#Runs all route to CORS allow cross origin sharing
+CORS(app)
 
 #################################################
 # Flask Routes
@@ -124,7 +127,7 @@ def provandyear(Prov,Year):
     session = Session(engine)
 
     # Since the user is selecting the province and year, we use &
-    records = session.query(Crime).filter((Crime.Province == str(Prov)) & (Crime.Year == int(Year))).all()
+    records = session.query(Crime).filter(Crime.Province == str(Prov)).filter((Crime.Year == int(Year))).all()
 
     #Unpacks the query into seperate vairable
     response_data = response_data = {
@@ -199,7 +202,7 @@ def get_employment_records_by_prov(Prov):
 def get_employment_records_by_prov_and_year(Prov,Year):
 
     # Set up query
-    records = session.query(Employment).filter(Employment.Province == str(Prov) & Employment.Year == int(Year)).all()
+    records = session.query(Employment).filter(Employment.Province == str(Prov)).filter(Employment.Year == int(Year)).all()
     
     # Manually structure the JSON response
     response_data = {
@@ -272,7 +275,7 @@ def get_income_records_by_prov(Prov):
 # Route to get all records from the table
 @app.route('/api/IncomeData/<Prov>/<Year>')
 def get_income_records_by_prov_and_year(Prov,Year):
-    records = session.query(Income).filter(Income.Province == str(Prov) & Income.Year == int(Year)).all()
+    records = session.query(Income).filter(Income.Province == str(Prov)).filter(Income.Year == int(Year)).all()
 
     # Manually structure the JSON response
     response_data = {
