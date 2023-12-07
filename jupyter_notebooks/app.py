@@ -58,8 +58,13 @@ def welcome():
         f"Available Routes:<br/>"
         f"/api/CrimeData<br/>"
         f"/api/CrimeData/<Prov>"
+        f"/api/CrimeData/<Prov>/<Year><br/>"
         f"/api/EmploymentData<br/>"
-        f"/api/IncomeData"
+        f"/api/EmploymentData/<Prov><br/>"
+        f"/api/EmploymentData/<Prov>/<Year><br/>"
+        f"/api/IncomeData/<br/>"
+        f"/api/IncomeData/<Prov><br/>"
+        f"/api/IncomeData/<Prov>/<Year><br/>"
     )
 
 
@@ -113,6 +118,32 @@ def sd(Prov):
 
     return jsonify(response_data)
 
+@app.route("/api/CrimeData/<Prov>/<Year>")
+def provandyear(Prov,Year):
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    # Since the user is selecting the province and year, we use &
+    records = session.query(Crime).filter((Crime.Province == str(Prov)) & (Crime.Year == int(Year))).all()
+
+    #Unpacks the query into seperate vairable
+    response_data = response_data = {
+        'CrimeData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Month': record.Month,
+                'CrimeCategory': getattr(record, 'Crime Category'), 
+                'CrimeType': getattr(record, 'Crime Type'), 
+                'Coordinate': record.Coordinate, 
+                'Value': record.Value
+            }
+            for record in records
+        ]
+    }
+
+    return jsonify(response_data)
+
 
 # Route to get all records from the table
 @app.route('/api/EmploymentData')
@@ -139,10 +170,109 @@ def get_employment_records():
     # Return the JSON response
     return jsonify(response_data)
 
+
+# Route to get all records from the table
+@app.route('/api/EmploymentData/<Prov>')
+def get_employment_records_by_prov(Prov):
+    records = session.query(Employment).filter(Employment.Province == str(Prov)).all()
+    # Manually structure the JSON response
+    response_data = {
+        'EmploymentData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Province': record.Province,
+                'LaborForceType': getattr(record, 'Labour force characteristics'), 
+                'Sex': record.Sex, 
+                'UOM': getattr(record, 'Unit of Measure'), 
+                'Value': record.Value,
+                'Coordinate': record.Coordinate, 
+            }
+            for record in records
+        ]
+    }
+
+    # Return the JSON response
+    return jsonify(response_data)
+
+@app.route('/api/EmploymentData/<Prov>/<Year>')
+def get_employment_records_by_prov_and_year(Prov,Year):
+
+    # Set up query
+    records = session.query(Employment).filter(Employment.Province == str(Prov) & Employment.Year == int(Year)).all()
+    
+    # Manually structure the JSON response
+    response_data = {
+        'EmploymentData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Province': record.Province,
+                'LaborForceType': getattr(record, 'Labour force characteristics'), 
+                'Sex': record.Sex, 
+                'UOM': getattr(record, 'Unit of Measure'), 
+                'Value': record.Value,
+                'Coordinate': record.Coordinate, 
+            }
+            for record in records
+        ]
+    }
+
+    # Return the JSON response
+    return jsonify(response_data)
+
 # Route to get all records from the table
 @app.route('/api/IncomeData')
 def get_income_records():
     records = session.query(Income).all()
+
+    # Manually structure the JSON response
+    response_data = {
+        'IncomeData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Province': record.Province,
+                'EmploymentType': getattr(record, 'Employment Type'), 
+                'TypeOfStat': getattr(record, 'Type of Statistic'), 
+                'UOM': getattr(record, 'Unit of Measure'), 
+                'Value': record.Value,
+            }
+            for record in records
+        ]
+    }
+
+    # Return the JSON response
+    return jsonify(response_data)
+
+# Route to get all records from the table
+@app.route('/api/IncomeData/<Prov>')
+def get_income_records_by_prov(Prov):
+    records = session.query(Income).filter(Income.Province == str(Prov)).all()
+
+    # Manually structure the JSON response
+    response_data = {
+        'IncomeData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Province': record.Province,
+                'EmploymentType': getattr(record, 'Employment Type'), 
+                'TypeOfStat': getattr(record, 'Type of Statistic'), 
+                'UOM': getattr(record, 'Unit of Measure'), 
+                'Value': record.Value,
+            }
+            for record in records
+        ]
+    }
+
+    # Return the JSON response
+    return jsonify(response_data)
+
+# Route to get all records from the table
+@app.route('/api/IncomeData/<Prov>/<Year>')
+def get_income_records_by_prov_and_year(Prov,Year):
+    records = session.query(Income).filter(Income.Province == str(Prov) & Income.Year == int(Year)).all()
 
     # Manually structure the JSON response
     response_data = {
