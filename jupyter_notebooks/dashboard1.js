@@ -3,7 +3,7 @@
 
 
 
-var url = 'http://192.168.2.23:5000/api/CrimeData';
+var url = 'http://127.0.0.1:5000/api/CrimeData';
 
   d3.json(url).then(function(data) {
     console.log(data);
