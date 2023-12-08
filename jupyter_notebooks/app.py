@@ -62,6 +62,7 @@ def welcome():
         f"/api/CrimeData<br/>"
         f"/api/CrimeData/<Prov>"
         f"/api/CrimeData/<Prov>/<Year><br/>"
+        f"/api/CrimeData/<Year>/<br/>"
         f"/api/EmploymentData<br/>"
         f"/api/EmploymentData/<Prov><br/>"
         f"/api/EmploymentData/<Prov>/<Year><br/>"
@@ -102,6 +103,31 @@ def sd(Prov):
     session = Session(engine)
 
     records = session.query(Crime).filter(Crime.Province == str(Prov)).all()
+
+    #Unpacks the query into seperate vairable
+    response_data = response_data = {
+        'CrimeData': [
+            {
+                'VectorID': getattr(record, 'Vector ID'),
+                'Year': record.Year,
+                'Month': record.Month,
+                'CrimeCategory': getattr(record, 'Crime Category'), 
+                'CrimeType': getattr(record, 'Crime Type'), 
+                'Coordinate': record.Coordinate, 
+                'Value': record.Value
+            }
+            for record in records
+        ]
+    }
+
+    return jsonify(response_data)
+
+@app.route("/api/CrimeData/<Year>")
+def crime_by_year(Year):
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    records = session.query(Crime).filter(Crime.Year == int(Year)).all()
 
     #Unpacks the query into seperate vairable
     response_data = response_data = {

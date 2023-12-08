@@ -1,17 +1,24 @@
-/* This is to add modifications to the text */
+/* Add modifications to the graphs here */
 
 body {
-    background-color: #f0f0f0;
-    font-family: 'Arial', sans-serif;
-  }
-  
-  h2 {
-    color: navy;
-    /* just testing */
-  }
-  
-  .mainTitle {
-    background-color: blueviolet;
-    font-family: 'cursive';
-    /* to select by class: .name    ,to select by id: #   */
-  }
+  margin: 10;
+  padding: 50;
+}
+#map {
+  height: 50vh; 
+  width: 100%;
+}
+#graphContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+.graph {
+  width: 30%; /* Adjust the width of your graphs */
+  height: 300px; 
