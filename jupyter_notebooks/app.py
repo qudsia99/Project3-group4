@@ -5,7 +5,7 @@ import datetime as dt
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func, Table, Column, MetaData
+from sqlalchemy import create_engine, func, Table, Column, MetaData, bindparam
 
 from flask import Flask, jsonify
 from flask_cors import CORS
@@ -33,14 +33,6 @@ Crime = Base.classes.crime
 Employment = Base.classes.employment
 Income = Base.classes.income
 
-# Create our session (link) from Python to the DB
-session = Session(engine)
-
-#session.add((Crime(index=144523)))
-#test = session.query(Crime.Province).all()
-#print(test)
-
-
 #################################################
 # Flask Setup
 #################################################
@@ -60,9 +52,8 @@ def welcome():
         f"Welcome to the Crime Data from 2019-2021 Page!"
         f"Available Routes:<br/>"
         f"/api/CrimeData<br/>"
-        f"/api/CrimeData/<Prov>"
+        f"/api/CrimeData/<Prov><br/>"
         f"/api/CrimeData/<Prov>/<Year><br/>"
-        f"/api/CrimeData/<Year>/<br/>"
         f"/api/EmploymentData<br/>"
         f"/api/EmploymentData/<Prov><br/>"
         f"/api/EmploymentData/<Prov>/<Year><br/>"
@@ -75,7 +66,11 @@ def welcome():
 # Route to get all records from the table
 @app.route('/api/CrimeData')
 def get_crime_records():
+    session = Session(engine)
+
     records = session.query(Crime).all()
+
+    session.close()
 
     # Manually structure the JSON response
     response_data = {
@@ -98,36 +93,13 @@ def get_crime_records():
     return jsonify(response_data)
 
 @app.route("/api/CrimeData/<Prov>")
-def sd(Prov):
+def get_crime_records_prov(Prov):
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
     records = session.query(Crime).filter(Crime.Province == str(Prov)).all()
 
-    #Unpacks the query into seperate vairable
-    response_data = response_data = {
-        'CrimeData': [
-            {
-                'VectorID': getattr(record, 'Vector ID'),
-                'Year': record.Year,
-                'Month': record.Month,
-                'CrimeCategory': getattr(record, 'Crime Category'), 
-                'CrimeType': getattr(record, 'Crime Type'), 
-                'Coordinate': record.Coordinate, 
-                'Value': record.Value
-            }
-            for record in records
-        ]
-    }
-
-    return jsonify(response_data)
-
-@app.route("/api/CrimeData/<Year>")
-def crime_by_year(Year):
-    # Create our session (link) from Python to the DB
-    session = Session(engine)
-
-    records = session.query(Crime).filter(Crime.Year == int(Year)).all()
+    session.close()
 
     #Unpacks the query into seperate vairable
     response_data = response_data = {
@@ -146,6 +118,7 @@ def crime_by_year(Year):
     }
 
     return jsonify(response_data)
+
 
 @app.route("/api/CrimeData/<Prov>/<Year>")
 def provandyear(Prov,Year):
@@ -154,6 +127,8 @@ def provandyear(Prov,Year):
 
     # Since the user is selecting the province and year, we use &
     records = session.query(Crime).filter(Crime.Province == str(Prov)).filter((Crime.Year == int(Year))).all()
+
+    session.close()
 
     #Unpacks the query into seperate vairable
     response_data = response_data = {
@@ -177,7 +152,11 @@ def provandyear(Prov,Year):
 # Route to get all records from the table
 @app.route('/api/EmploymentData')
 def get_employment_records():
+    session = Session(engine)
+
     records = session.query(Employment).all()
+
+    session.close()
 
     # Manually structure the JSON response
     response_data = {
@@ -203,7 +182,9 @@ def get_employment_records():
 # Route to get all records from the table
 @app.route('/api/EmploymentData/<Prov>')
 def get_employment_records_by_prov(Prov):
+    session = Session(engine)
     records = session.query(Employment).filter(Employment.Province == str(Prov)).all()
+    session.close()
     # Manually structure the JSON response
     response_data = {
         'EmploymentData': [
@@ -226,9 +207,10 @@ def get_employment_records_by_prov(Prov):
 
 @app.route('/api/EmploymentData/<Prov>/<Year>')
 def get_employment_records_by_prov_and_year(Prov,Year):
-
+    session = Session(engine)
     # Set up query
     records = session.query(Employment).filter(Employment.Province == str(Prov)).filter(Employment.Year == int(Year)).all()
+    session.close()
     
     # Manually structure the JSON response
     response_data = {
@@ -253,7 +235,9 @@ def get_employment_records_by_prov_and_year(Prov,Year):
 # Route to get all records from the table
 @app.route('/api/IncomeData')
 def get_income_records():
+    session = Session(engine)
     records = session.query(Income).all()
+    session.close()
 
     # Manually structure the JSON response
     response_data = {
@@ -274,10 +258,12 @@ def get_income_records():
     # Return the JSON response
     return jsonify(response_data)
 
-# Route to get all records from the table
+# Route to get all records from the table by filtering by province
 @app.route('/api/IncomeData/<Prov>')
 def get_income_records_by_prov(Prov):
+    session = Session(engine)
     records = session.query(Income).filter(Income.Province == str(Prov)).all()
+    session.close()
 
     # Manually structure the JSON response
     response_data = {
@@ -301,7 +287,9 @@ def get_income_records_by_prov(Prov):
 # Route to get all records from the table
 @app.route('/api/IncomeData/<Prov>/<Year>')
 def get_income_records_by_prov_and_year(Prov,Year):
+    session = Session(engine)
     records = session.query(Income).filter(Income.Province == str(Prov)).filter(Income.Year == int(Year)).all()
+    session.close()
 
     # Manually structure the JSON response
     response_data = {
