@@ -31,15 +31,9 @@ let url1 = baseurl + type
 d3.json(url1).then(function(data) {
   console.log("loading data:", data)
 
-  // Create a row loop to go through the rows of data
-  // for (let i = 0; i < data.CrimeData.length; i++) {
-  //   let coords = data.CrimeData[i].Coordinate;
-  //   let parts = coords.split('.');
-  //   console.log("parts",parts)
-// the above for loop counting everything over and over.
-
-
   let provinceDataCount = {};
+
+
 
   // Iterate through the rows, counting quantity per province
   data.CrimeData.forEach(count => {
@@ -84,3 +78,11 @@ d3.json(url1).then(function(data) {
   })
 }
 );
+
+
+d3.selectAll("#yearData").on("change", updateLeaflet);
+
+function updateLeaflet() {
+
+  let yearmenu = d3.select('#yearData')
+}
