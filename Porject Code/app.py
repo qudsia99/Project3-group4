@@ -52,14 +52,14 @@ def welcome():
         f"Welcome to the Crime Data from 2019-2021 Page!"
         f"Available Routes:<br/>"
         f"/api/CrimeData<br/>"
-        f"/api/CrimeData/<Prov><br/>"
-        f"/api/CrimeData/<Prov>/<Year><br/>"
+        f"/api/CrimeData/Prov<br/>"
+        f"/api/CrimeData/Prov/Year<br/>"
         f"/api/EmploymentData<br/>"
-        f"/api/EmploymentData/<Prov><br/>"
-        f"/api/EmploymentData/<Prov>/<Year><br/>"
+        f"/api/EmploymentData/Prov<br/>"
+        f"/api/EmploymentData/Prov/Year<br/>"
         f"/api/IncomeData/<br/>"
-        f"/api/IncomeData/<Prov><br/>"
-        f"/api/IncomeData/<Prov>/<Year><br/>"
+        f"/api/IncomeData/Prov<br/>"
+        f"/api/IncomeData/Prov/Year<br/>"
     )
 
 
