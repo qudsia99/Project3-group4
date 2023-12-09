@@ -18,32 +18,61 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- chart.js-->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style1.css">
     
 
 </head>
 
 <body>
-    <h2 class="mainTitle">Crime Rate in Canda during COVID19 (2019-2021)</h2>
-    
-    <label for="provincialData">Select Province</label>
-    <select id="provincialData">
-        <!-- id's-->
-        <option value="Alberta">Alberta</option>
-        <option value="British Columbia">British Columbia</option>
-        <option value="Manitoba">Manitoba</option>
-        <option value="Newfoundland">Newfoundland</option>
-        <option value="Prince Edward Island">Prince Edward Island</option>
-        <option value="Quebec">Quebec</option>
-    </select>
+    <body>
 
-    <label for="yearData">Select Year</label>
-    <select id="yearData">
-        <option value="2019">2019</option>
-        <option value="2020">2020</option>
-        <option value="2021">2021</option>
-    </select>
-    <div id="map"></div>
-    <script src="dashboard1.js"></script>
+        <div class="container">
+          <div class="row">
+            <div class="mainTitle">
+              <h1>COVID-19 Crime Data Dashbaord</h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2">
+              <div class="well">
+                <select id="selDataset">
+                  <option value="940">940</option>
+                  <option value="1234">1234</option>
+                  <option value="1280">1280</option>
+                  <option value="1308">1308</option>
+                  <option value="1415">1415</option>
+                  <option value="1491">1491</option>
+                  <option value="1533">1533</option>
+                </select>
+              </div>
+              <div class="panel panel-primary">
+                <div class="panel-heading">
+                  <h3 class="panel-title">Demographic Info</h3>
+                </div>
+                <div id="sample-metadata" class="panel-body"></div>
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div id="map"></div>
+            </div>
+            <div class="col-md-5">
+              <div id="Income"></div>
+              <div class="col-md-2">
+                <div class="Income Year">
+                  <select id="selYearData" onchange="optionChanged(this.value)"">
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                  </select>
+                </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div id="bubble"></div>
+            </div>
+          </div>
+        </div>
+    <script src="dashboard2.js"></script>
 </body>
 </html>

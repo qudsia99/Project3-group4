@@ -80,9 +80,3 @@ d3.json(url1).then(function(data) {
 );
 
 
-d3.selectAll("#yearData").on("change", updateLeaflet);
-
-function updateLeaflet() {
-
-  let yearmenu = d3.select('#yearData')
-}
