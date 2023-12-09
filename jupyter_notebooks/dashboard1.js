@@ -35,23 +35,48 @@ d3.json(url1).then(function(data) {
   for (let i = 0; i < data.length; i++) {
     let coords = data[i].Coordinate;
     let parts = coords.split('.');
-  
-    // Ensure that there are at least three parts
+    
+    let provinceDataCount = {};
+
+// Iterate through the rows, counting quantity per province
+  data.CrimeData.forEach(count => {
+    let province = count.Province;
+    // Diving count among provinces
+    provinceDataCount[province] = (provinceDataCount[province] || 0) + 1;
+  });
+
+// Iterate through the unique provinces and create one marker per province
+  Object.keys(provinceDataCount).forEach(province => {
+  // Get the count of data for the current province
+  let count2 = provinceDataCount[province];
+
+  // setting radius of marker to depend on data count per pvovince 
+  // for marker size
+  let radius = count2 * 0.1;
+
+    // Converting non-standard coordinates into standard ('lat','lon')
     if (parts.length >= 3) {
       let latitude = parseFloat(parts[0] + '.' + parts[1]);
       let longitude = parseFloat(parts[2]);
       
+      // debugging along the way
+
       console.log('Creating Marker for:', data[i].Province);
       console.log('Original Coordinate:', coords);
       console.log('Converted Coordinates:', [latitude, longitude]);
+      
       // Check for valid coordinates
       if (!isNaN(latitude) && !isNaN(longitude)) {
         // Create and add markers to the map
-        L.marker([latitude, longitude], {
+        L.circleMarker([latitude, longitude], {
           draggable: true,
+          color: "red",
+          radius: radius,
           title: data[i].Province
         }).addTo(myMap);
       }
     }
+
+  })
 };
 });
