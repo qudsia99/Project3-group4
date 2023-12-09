@@ -102,7 +102,7 @@ def get_crime_records_prov(Prov):
     session.close()
 
     #Unpacks the query into seperate vairable
-    response_data = response_data = {
+    response_data = {
         'CrimeData': [
             {
                 'VectorID': getattr(record, 'Vector ID'),
@@ -125,13 +125,13 @@ def provandyear(Prov,Year):
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-    # Since the user is selecting the province and year, we use &
-    records = session.query(Crime).filter(Crime.Province == str(Prov)).filter((Crime.Year == int(Year))).all()
+    # Using parameterized query to prevent SQL injection
+    records = session.query(Crime).filter_by(Province=Prov, Year=Year).all()
 
     session.close()
 
     #Unpacks the query into seperate vairable
-    response_data = response_data = {
+    response_data = {
         'CrimeData': [
             {
                 'VectorID': getattr(record, 'Vector ID'),
