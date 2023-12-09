@@ -10,9 +10,9 @@
 
 let baseurl = 'http://127.0.0.1:5000/'
 let type = 'api/CrimeData'
-let year = "/2019"
 
-let url1 = baseurl + type + year
+
+let url1 = baseurl + type 
 
   // Creating a map object.
   let myMap = L.map("map", {
@@ -32,38 +32,42 @@ d3.json(url1).then(function(data) {
   console.log("loading data:", data)
 
   // Create a row loop to go through the rows of data
-  for (let i = 0; i < data.length; i++) {
-    let coords = data[i].Coordinate;
-    let parts = coords.split('.');
-    
-    let provinceDataCount = {};
+  // for (let i = 0; i < data.CrimeData.length; i++) {
+  //   let coords = data.CrimeData[i].Coordinate;
+  //   let parts = coords.split('.');
+  //   console.log("parts",parts)
+// the above for loop counting everything over and over.
 
-// Iterate through the rows, counting quantity per province
+
+  let provinceDataCount = {};
+
+  // Iterate through the rows, counting quantity per province
   data.CrimeData.forEach(count => {
     let province = count.Province;
-    // Diving count among provinces
+     // Dividing count among provinces
     provinceDataCount[province] = (provinceDataCount[province] || 0) + 1;
   });
 
 // Iterate through the unique provinces and create one marker per province
   Object.keys(provinceDataCount).forEach(province => {
-  // Get the count of data for the current province
-  let count2 = provinceDataCount[province];
+    // Get the count of data for the current province
+    let count2 = provinceDataCount[province];
+    // setting radius of marker to depend on data count per pvovince 
+    // for marker size
+    let radius = count2 * 0.1;
 
-  // setting radius of marker to depend on data count per pvovince 
-  // for marker size
-  let radius = count2 * 0.1;
+  // Converting non-standard coordinates into standard ('lat','lon')
+    let firstDataPoint = data.CrimeData.find(point => point.Province === province);
 
-    // Converting non-standard coordinates into standard ('lat','lon')
-    if (parts.length >= 3) {
-      let latitude = parseFloat(parts[0] + '.' + parts[1]);
-      let longitude = parseFloat(parts[2]);
+    if (firstDataPoint && firstDataPoint.Coordinate) {
+      let coords = firstDataPoint.Coordinate;
+      let parts = coords.split('.');
       
-      // debugging along the way
+      if (parts.length >= 3) {
+        let latitude = parseFloat(parts[0] + '.' + parts[1]);
+        let longitude = parseFloat(parts[2]);
 
-      console.log('Creating Marker for:', data[i].Province);
-      console.log('Original Coordinate:', coords);
-      console.log('Converted Coordinates:', [latitude, longitude]);
+        console.log('Converted Coordinates:', [latitude, longitude]);
       
       // Check for valid coordinates
       if (!isNaN(latitude) && !isNaN(longitude)) {
@@ -72,11 +76,11 @@ d3.json(url1).then(function(data) {
           draggable: true,
           color: "red",
           radius: radius,
-          title: data[i].Province
+          title: province
         }).addTo(myMap);
       }
     }
-
+  }
   })
-};
-});
+}
+);
