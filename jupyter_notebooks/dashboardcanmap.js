@@ -348,5 +348,4 @@ function optionChanged() {
 
   });
 
-  });  
 
