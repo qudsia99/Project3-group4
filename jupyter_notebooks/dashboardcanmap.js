@@ -345,4 +345,8 @@ function optionChanged() {
   bc.on('mouseout', function (event) {console.log(event) 
     bc.closePopup()});
  
+
   });
+
+  });  
+
