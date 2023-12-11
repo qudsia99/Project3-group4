@@ -111,8 +111,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Ontario");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 560, 350, 280, 280, 280`;
+              <strong>Top 3 Categories of Calls made:</strong> Services, Assaults, B&E <br>
+              <strong>Persons with Income under $5,000: </strong> %11.7`;
   
           console.log(event)
           ontario.bindPopup(info).openPopup();
@@ -121,8 +121,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Alberta");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 160, 100, 80, 80, 80`
+              <strong>Top Categories of Calls made:</strong> Theft, B&E, Assaults <br>
+              <strong>Persons with Income under $5,000:</strong> %10.7`
           console.log(event)
           alberta.bindPopup(info).openPopup();
           });
@@ -131,8 +131,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Manitoba");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 80, 50, 40, 40, 40`
+              <strong>Top Categories of Calls made:</strong> B&E, Theft, Assaults <br>
+              <strong>Persons with Income under $5,000:</strong> %12.8`
           console.log(event)
           manitoba.bindPopup(info).openPopup();
           });
@@ -141,8 +141,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Newfoundland and Labrador");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 80, 50, 40, 40, 40`
+              <strong>Top Categories of Calls made:</strong> Service, Assaults, B&E <br>
+              <strong>Persons with Income under $5,000:</strong> %12.3`
             console.log(event)
             newfoundland.bindPopup(info).openPopup();
             });
@@ -151,8 +151,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Quebec");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made</strong>: Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 160, 100, 80, 80, 80`
+              <strong>Top Categories of Calls made</strong>: Assaults, B&E, Theft <br>
+              <strong>Persons with Income under $5,000:</strong> %11.5`
             console.log(event)
             quebec.bindPopup(info).openPopup();
             });
@@ -161,8 +161,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Saskatchewan");
         let info = `
             <strong>${provinceInfo.Province}</strong><br>
-            <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-            <strong>Value:</strong> 160, 100, 80, 80, 80`
+            <strong>Top Categories of Calls made:</strong> Services, B&E, Assaults <br>
+            <strong>Persons with Income under $5,000:</strong> %13.2`
             console.log(event)
             sask.bindPopup(info).openPopup();
             });
@@ -171,8 +171,8 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "British Columbia");
         let info = `
             <strong>${provinceInfo.Province}</strong><br>
-            <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-            <strong>Value:</strong> 160, 100, 80, 80, 80`
+            <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
+            <strong>Persons with Income under $5,000:</strong> %13.3`
             console.log(event)
             bc.bindPopup(info).openPopup();
             });                 
@@ -184,7 +184,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 670, 420, 336, 336, 336`;
+              <strong>Persons with Income under $5,000:</strong> %14.5`;
   
           console.log(event)
           ontario.bindPopup(info).openPopup();
@@ -195,7 +195,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 192, 120, 96, 96, 96`
+              <strong>Persons with Income under $5,000:</strong> %11.9`
               console.log(event)
               alberta.bindPopup(info).openPopup();
                   });
@@ -205,7 +205,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 96, 60, 48, 48, 48`
+              <strong>Persons with Income under $5,000:</strong> %12.8`
               console.log(event)
               manitoba.bindPopup(info).openPopup();
               });
@@ -215,7 +215,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 96, 60, 48, 48, 48`
+              <strong>Persons with Income under $5,000:</strong> %14.1`
               console.log(event)
               newfoundland.bindPopup(info).openPopup();
               });
@@ -226,7 +226,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made</strong>: Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                <strong>Value:</strong> 192, 120, 96, 96, 96`
+                <strong>Persons with Income under $5,000:</strong> %12.6`
                 console.log(event)
                 quebec.bindPopup(info).openPopup();
                 });
@@ -236,7 +236,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                <strong>Value:</strong> 192, 120, 96, 96, 96`
+                <strong>Persons with Income under $5,000:</strong> %12.7`
                 console.log(event)
                 sask.bindPopup(info).openPopup();
                 });
@@ -246,7 +246,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                <strong>Value:</strong> 192, 120, 96, 96, 96`
+                <strong>Persons with Income under $5,000:</strong> %13.9`
                 console.log(event)
                 bc.bindPopup(info).openPopup();
                 });
@@ -258,7 +258,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong>2021 Services, Assaults, B&E, Sexual Assaults, Threats <br>
-              <strong>Value:</strong> 672, 4200, 336, 336, 336`;
+              <strong>Persons with Income under $5,000:</strong> %13.8`;
            console.log(event)
           ontario.bindPopup(info).openPopup();
           });
@@ -268,7 +268,7 @@ function optionChanged() {
             let info = `
                     <strong>${provinceInfo.Province}</strong><br>
                     <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                    <strong>Value:</strong> 192, 120, 96, 96, 96`
+                    <strong>Persons with Income under $5,000:</strong> %14.2`
               console.log(event)
               alberta.bindPopup(info).openPopup();
                   });
@@ -278,7 +278,7 @@ function optionChanged() {
                     let info = `
                           <strong>${provinceInfo.Province}</strong><br>
                           <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                          <strong>Value:</strong> 96, 60, 48, 48, 48`
+                          <strong>Persons with Income under $5,000:</strong> %12.9`
                       console.log(event)
        manitoba.bindPopup(info).openPopup();
       });
@@ -288,7 +288,7 @@ function optionChanged() {
                         let info = `
                               <strong>${provinceInfo.Province}</strong><br>
                               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                              <strong>Value:</strong> 96, 60, 48, 48, 48`
+                              <strong>Persons with Income under $5,000:</strong> %13.9`
                           console.log(event)
                           newfoundland.bindPopup(info).openPopup();
                           });
@@ -299,7 +299,7 @@ function optionChanged() {
                             let info = `
                                   <strong>${provinceInfo.Province}</strong><br>
                                   <strong>Top Categories of Calls made</strong>: Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                                  <strong>Value:</strong> 120, 120, 96, 96, 96`
+                                  <strong>Persons with Income under $5,000:</strong> %12.4`
                    console.log(event)
                    quebec.bindPopup(info).openPopup();
                   });
@@ -310,7 +310,7 @@ function optionChanged() {
                                 let info = `
                                       <strong>${provinceInfo.Province}</strong><br>
                                       <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                                      <strong>Value:</strong> 192, 120, 96, 96, 96`
+                                      <strong>Persons with Income under $5,000:</strong> %13.2`
                                   console.log(event)
                                   sask.bindPopup(info).openPopup();
                                   });
@@ -320,7 +320,7 @@ function optionChanged() {
                                     let info = `
                                           <strong>${provinceInfo.Province}</strong><br>
                                           <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
-                                          <strong>Value:</strong> 192, 120, 96, 96, 96`
+                                          <strong>Persons with Income under $5,000:</strong> %12.9`
                                       console.log(event)
                                       bc.bindPopup(info).openPopup();
                                       });
