@@ -7,7 +7,7 @@ body {
 
 #map {
   height: 50vh;
-  width: 100%;
+  width: 100%;/*80*/
 }
 
 #graphContainer {

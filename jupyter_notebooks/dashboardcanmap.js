@@ -8,7 +8,7 @@ let url3 = baseurl2 + type2
 
 // Creating a map object.
   let myMap = L.map("map", {
-    center: [62.09, -100.71],
+    center: [53.09, -93.71],
     zoom: 4.0
   });
 
@@ -111,7 +111,7 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Ontario");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:<strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
+              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
               <strong>Value:</strong> 560, 350, 280, 280, 280`;
   
           console.log(event)
@@ -183,7 +183,7 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Ontario");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:<strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
+              <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E, Sexual Assaults, Threats <br>
               <strong>Value:</strong> 670, 420, 336, 336, 336`;
   
           console.log(event)
@@ -257,7 +257,7 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Ontario");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top Categories of Calls made:<strong>2021 Services, Assaults, B&E, Sexual Assaults, Threats <br>
+              <strong>Top Categories of Calls made:</strong>2021 Services, Assaults, B&E, Sexual Assaults, Threats <br>
               <strong>Value:</strong> 672, 4200, 336, 336, 336`;
            console.log(event)
           ontario.bindPopup(info).openPopup();
