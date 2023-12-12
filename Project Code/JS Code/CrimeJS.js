@@ -2,7 +2,8 @@
 const url3 = 'http://127.0.0.1:5000/api/CrimeData';
 
 
-function init() {
+//initliazing the init function 
+function init1() {
 
   d3.json(url3).then(function(data) {
     let crime = data.CrimeData;
@@ -26,35 +27,46 @@ function init() {
       }
     }
     // Set Parameters for our bar graph
-    var crime_graph = [{
+    var crime_trace = [{
+      //initialing the keys and value of our crimecategory total dict as the x and y values
       x: Object.keys(crimeCategoryTotals),
       y: Object.values(crimeCategoryTotals),
       type: 'bar',
       width: 0.5,
+      //displaying bar graph values
       text: Object.values(crimeCategoryTotals),
       textposition: 'auto',
       hoverinfo: 'none',
+      //setting bar graph color along with its outline color
+      marker: {
+        color: 'rgb(139,0,0)',
+        opacity: 0.8,
+        line: {
+          color: 'rgb(8,48,107)',
+          width: 1.5
+        }
+      }
     }];
     // Set layout parameters for our bar graph
     var crime_graph_layout = {
       height: 600,
-      title: `Crime Numbers in ${prov} (${crime_yr })`,
+      title: `Crime Numbers in ${prov} (${crime_yr})`,
       xaxis: {
         title: 'Crime Categories'
       },
       yaxis: {
-        title: 'Crime Numbers'
+        title: 'Reported Incidents'
       },
       margin: {
         b: 101
       }
     };
     // Drawing new Plotly Graph
-    Plotly.newPlot('Crime', crime_graph, crime_graph_layout);
+    Plotly.newPlot('Crime', crime_trace, crime_graph_layout);
   }); // end of d3 element
 }
 
-init(); 
+init1(); 
 
 // Function called by DOM changes
 function optionChanged3(new_province) {
@@ -70,10 +82,9 @@ function optionChanged4(new_year) {
 }
 
 function updatePlotlyCrime(new_province, new_year) {
-  // Setting which year you want to filter the data for
   
   // Loading crime data api
-  d3.json(url1).then(function(data) {
+  d3.json(url3).then(function(data) {
     let crime = data.CrimeData;
     // Setting a filter for the type of crime data we want
     let prov = new_province;
@@ -93,8 +104,7 @@ function updatePlotlyCrime(new_province, new_year) {
         crimeCategoryTotals[crimeCategory] = value;
       }
     }
-    // Set Parameters for our bar graph
-    var crime_graph = [{
+    var crime_trace = [{
       x: Object.keys(crimeCategoryTotals),
       y: Object.values(crimeCategoryTotals),
       type: 'bar',
@@ -102,6 +112,14 @@ function updatePlotlyCrime(new_province, new_year) {
       text: Object.values(crimeCategoryTotals),
       textposition: 'auto',
       hoverinfo: 'none',
+      marker: {
+        color: 'rgb(139,0,0)',
+        opacity: 0.8,
+        line: {
+          color: 'rgb(8,48,107)',
+          width: 1.5
+        }
+      }
     }];
     // Set layout parameters for our bar graph
     var crime_graph_layout = {
@@ -118,7 +136,7 @@ function updatePlotlyCrime(new_province, new_year) {
       }
     };
     // Drawing new Plotly Graph
-    Plotly.newPlot('Crime', crime_graph, crime_graph_layout);
+    Plotly.newPlot('Crime', crime_trace, crime_graph_layout);
   }); // end of d3 element
 }
 
