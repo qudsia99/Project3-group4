@@ -6,7 +6,7 @@ This dashboard created by a team of four individuals, utilizes reported 9-1-1 ca
 
 ### Features
 
-A dynamic map of Canadian provinces with markers that displays the top 3 call categories made, percentage of persons with annual income under $5,000 and mean unemployement rate per province. A bar graph that displays the years and (sSOMETHING) with a drop-down menu with different provinces. 
+A dynamic map of Canadian provinces with markers that displays the top 3 call categories made, percentage of persons with annual income under $5,000 and mean unemployement rate per province. A bar graph that displays the years and employment across provinces via a drop-down, as well as another bar graph that displays different crime types reported per province, also filtered by year. Finally a visualization of mean income across all provinces by years, displayed by a line graph.  
 
 
 ### Development 
