@@ -51,4 +51,4 @@ from flask_cors import CORS
 ```
 
 
-Contributors can be found under 'Contributors' section on repository page. 
+Contributors/Group Members: Allan Matthews, Qudsia Ahmad, Merve Celme, Neil Guise 
