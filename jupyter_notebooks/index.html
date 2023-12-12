@@ -34,8 +34,17 @@
         <h1>Canada's Provincial Crime Data admid COVID-19</h1>
       </div>
     </div>
+  
+    
     <div class="row">
-      <div class="col-md-2">
+      <!-- Map Column -->
+      <div class="col-md-5">
+        <div id="map"></div>
+      </div>
+        
+      <div class="row">
+        <div class="col-md-2">
+        <label for="selDataset">Select Demographic Info:</label>
         <div class="well">
           <select id="selDataset" onchange="optionChanged(this.value,document.getElementById('selYearData').value)">
             <option value="Alberta">Alberta</option>
@@ -50,11 +59,28 @@
             <option value="Newfoundland and Labrador">Newfoundland and Labrador</option>
           </select>
         </div>
+        </div>  
+      <!-- Demographic Info Column -->
+      <div class="col-md-4">
+        <div class="panel panel-primary panel-box">
+          <div class="panel-heading">
+            <h3 class="panel-title">Demographic Info</h3>
+          </div>
+          <div class="panel-body">
+            <!-- Demographic info content goes here -->
+            <div class="panel panel-primary"></div>
+            <div id="sample-metadata" class="panel-body"></div>
+          </div>
+        </div>  
+      </div> 
+    </div>
+    
+    
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Crime Info for selected province:</h3>
 
-    <body>
+    <!-- <body> -->
 
         <div class="container">
           <div class="row">
@@ -62,8 +88,20 @@
               <h1>COVID-19 Crime Data Dashboard</h1>
             </div> -->
           </div>
+        
+          <div id="Crime"></div> <!-- Added this div for the Crime graph -->
+        <div class="col-md-2">
+          <div class="Income Year">
+            <select id="selYearData" onchange="optionChanged(document.getElementById('selDataset').value,this.value)">
+              <option value="2019">2019</option>
+              <option value="2020">2020</option>
+              <option value="2021">2021</option>
+            </select>
+          </div>
+
           <div class="row">
             <div class="col-md-2">
+              
               <div class="well">
                 <select id="selDataset">
                   <option value="940">940</option>
@@ -75,17 +113,9 @@
                   <option value="1533">1533</option>
                 </select>
               </div>
-              <div class="panel panel-primary">
-                <div class="panel-heading">
-                  <h3 class="panel-title">Demographic Info</h3>
-                </div>
-                <div class="panel panel-primary" style="width: 18rem;"></div>
-                <div id="sample-metadata" class="panel-body"></div>
-              </div>
+              
             </div>
-            <div class="col-md-5">
-              <div id="map"></div>
-            </div>
+            
             <div class="col-md-5">
               <div id="Income"></div>
               <div class="col-md-2">
@@ -102,9 +132,8 @@
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
-      <div class="col-md-5">
-        <div id="map"></div>
-      </div>
+      
+
       <div class="col-md-5">
         <div id="Income"></div>
         <div id="Crime"></div> <!-- Added this div for the Crime graph -->
@@ -127,21 +156,22 @@
           </div>
         </div>
 
-
-
       </div>
     </div>
-    <div class="row">
+    
+    <!-- <div class="row">
       <div class="col-md-12">
         <div id="bubble"></div>
       </div>
-    </div>
+    </div> -->
+  
   </div>
+
   <script src="dashboard1.js"></script>
   <script src="dashboardcanmap.js"></script>
-    <script src="dashboard2.js"></script>
-    <!-- script for employment chart-->
-    <script src="employment_chart1.js"></script>
+  <script src="dashboard2.js"></script>
+  <!-- script for employment chart-->
+  <script src="employment_chart1.js"></script>
 
 </body>
 
