@@ -112,7 +112,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top 3 Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000: </strong> 11.7%
+              <strong>Persons with Income under $5,000: </strong> 11.7% <br>
               <strong>Mean Unemployment Rate:</strong> 5.4%`;
   
           console.log(event)
@@ -123,7 +123,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Theft, B&E, Assaults <br>
-              <strong>Persons with Income under $5,000:</strong> 10.7%
+              <strong>Persons with Income under $5,000:</strong> 10.7% <br>
               <strong> Mean Unemployment Rate:</strong> 7.05%`
 
           console.log(event)
@@ -135,7 +135,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> B&E, Theft, Assaults <br>
-              <strong>Persons with Income under $5,000:</strong> 12.8%
+              <strong>Persons with Income under $5,000:</strong> 12.8% <br>
               <strong>Mean Unemployment Rate:</strong> 4.97%`
       
           console.log(event)
@@ -147,7 +147,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Service, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 12.3%
+              <strong>Persons with Income under $5,000:</strong> 12.3% <br>
               <strong>Unemployment Rate:</strong> 12.23%`
 
             console.log(event)
@@ -159,7 +159,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made</strong>: Assaults, B&E, Theft <br>
-              <strong>Persons with Income under $5,000:</strong> 11.5%
+              <strong>Persons with Income under $5,000:</strong> 11.5% <br>
               <strong> Mean Unemployment Rate:</strong> 5.3%`
 
             console.log(event)
@@ -171,7 +171,7 @@ function optionChanged() {
         let info = `
             <strong>${provinceInfo.Province}</strong><br>
             <strong>Top Categories of Calls made:</strong> Services, B&E, Assaults <br>
-            <strong>Persons with Income under $5,000:</strong> 13.2%
+            <strong>Persons with Income under $5,000:</strong> 13.2% <br>
             <strong>Mean Unemployment Rate:</strong> 5.31%`
             console.log(event)
             sask.bindPopup(info).openPopup();
@@ -182,7 +182,7 @@ function optionChanged() {
         let info = `
             <strong>${provinceInfo.Province}</strong><br>
             <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-            <strong>Persons with Income under $5,000:</strong> 13.3%
+            <strong>Persons with Income under $5,000:</strong> 13.3% <br>
             <strong>Mean Unemployment Rate:</strong> 4.77%`
             console.log(event)
             bc.bindPopup(info).openPopup();
@@ -195,7 +195,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 14.5%
+              <strong>Persons with Income under $5,000:</strong> 14.5% <br>
               <strong>Mean Unemployment Rate:</strong> 9.7%`;
   
           console.log(event)
@@ -207,7 +207,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 11.9%
+              <strong>Persons with Income under $5,000:</strong> 11.9% <br>
               <strong>Mean Unemployment Rate:</strong>11.45%`
               console.log(event)
               alberta.bindPopup(info).openPopup();
@@ -218,7 +218,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 12.8%
+              <strong>Persons with Income under $5,000:</strong> 12.8% <br>
               <strong>Mean Unemployment Rate:</strong> 7.94%`
               console.log(event)
               manitoba.bindPopup(info).openPopup();
@@ -229,7 +229,7 @@ function optionChanged() {
             let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 14.1%
+              <strong>Persons with Income under $5,000:</strong> 14.1% <br>
               <strong>Mean Unemployment Rate:</strong> 14.59%`
               console.log(event)
               newfoundland.bindPopup(info).openPopup();
@@ -241,7 +241,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                <strong>Persons with Income under $5,000:</strong> 12.6%
+                <strong>Persons with Income under $5,000:</strong> 12.6% <br>
                 <strong>Mean Unemployment Rate:</strong> 9.34%`
                 console.log(event)
                 quebec.bindPopup(info).openPopup();
@@ -252,7 +252,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                <strong>Persons with Income under $5,000:</strong> 12.7%
+                <strong>Persons with Income under $5,000:</strong> 12.7% <br>
                 <strong>Mean Unemployment Rate:</strong> 8.32%`
                 console.log(event)
                 sask.bindPopup(info).openPopup();
@@ -263,7 +263,7 @@ function optionChanged() {
             let info = `
                 <strong>${provinceInfo.Province}</strong><br>
                 <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                <strong>Persons with Income under $5,000:</strong> 13.9%
+                <strong>Persons with Income under $5,000:</strong> 13.9% <br>
                 <strong>Mean Unemployment Rate:</strong> 9.25%`
                 console.log(event)
                 bc.bindPopup(info).openPopup();
@@ -276,7 +276,7 @@ function optionChanged() {
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-              <strong>Persons with Income under $5,000:</strong> 13.8%
+              <strong>Persons with Income under $5,000:</strong> 13.8% <br>
               <strong>Unemployment Rate:</strong> 8.41%`;
            console.log(event)
           ontario.bindPopup(info).openPopup();
@@ -287,7 +287,7 @@ function optionChanged() {
             let info = `
                     <strong>${provinceInfo.Province}</strong><br>
                     <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                    <strong>Persons with Income under $5,000:</strong> 14.2%
+                    <strong>Persons with Income under $5,000:</strong> 14.2% <br>
                     <strong>Mean Unemployment Rate:</strong> 9.07%`
               console.log(event)
               alberta.bindPopup(info).openPopup();
@@ -298,7 +298,7 @@ function optionChanged() {
                     let info = `
                           <strong>${provinceInfo.Province}</strong><br>
                           <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                          <strong>Persons with Income under $5,000:</strong> 12.9%
+                          <strong>Persons with Income under $5,000:</strong> 12.9% <br>
                           <strong>Mean Unemployment Rate:</strong> 6.27%`
                       console.log(event)
        manitoba.bindPopup(info).openPopup();
@@ -309,7 +309,7 @@ function optionChanged() {
                         let info = `
                               <strong>${provinceInfo.Province}</strong><br>
                               <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                              <strong>Persons with Income under $5,000:</strong> 13.9%
+                              <strong>Persons with Income under $5,000:</strong> 13.9% <br>
                               <strong>Mean Unemployment Rate:</strong> 13.2%`
                           console.log(event)
                           newfoundland.bindPopup(info).openPopup();
@@ -321,7 +321,7 @@ function optionChanged() {
                             let info = `
                                   <strong>${provinceInfo.Province}</strong><br>
                                   <strong>Top Categories of Calls made</strong>: Services, Assaults, B&E <br>
-                                  <strong>Persons with Income under $5,000:</strong> 12.4%
+                                  <strong>Persons with Income under $5,000:</strong> 12.4% <br>
                                   <strong>Mean Unemployment Rate:</strong> 6.34%`
                    console.log(event)
                    quebec.bindPopup(info).openPopup();
@@ -333,7 +333,7 @@ function optionChanged() {
                                 let info = `
                                       <strong>${provinceInfo.Province}</strong><br>
                                       <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E<br>
-                                      <strong>Persons with Income under $5,000:</strong> 13.2%
+                                      <strong>Persons with Income under $5,000:</strong> 13.2% <br>
                                       <strong>Mean Unemployment Rate:</strong> 6.65%`
                                   console.log(event)
                                   sask.bindPopup(info).openPopup();
@@ -344,7 +344,7 @@ function optionChanged() {
                                     let info = `
                                           <strong>${provinceInfo.Province}</strong><br>
                                           <strong>Top Categories of Calls made:</strong> Services, Assaults, B&E <br>
-                                          <strong>Persons with Income under $5,000:</strong> 12.9%
+                                          <strong>Persons with Income under $5,000:</strong> 12.9% <br>
                                           <strong>Mean Unemployment Rate:</strong> 6.93%`
                                       console.log(event)
                                       bc.bindPopup(info).openPopup();
