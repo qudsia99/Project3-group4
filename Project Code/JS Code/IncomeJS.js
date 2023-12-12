@@ -6,6 +6,7 @@ function init(){
   // Setting which year you want to filter the data for
   let year = 2019;
 
+  //calling data through d3
   d3.json(url2).then(function(data) {
   
     //loading income data api 
@@ -82,10 +83,18 @@ function init(){
   sorted_income_data.sort((a, b) => a.x.localeCompare(b.x));
   
   //Sets Parameters for our line graph
-  var income_graph = [{
+  var income_trace = [{
     x: sorted_income_data.map(point => point.x),
     y: sorted_income_data.map(point => point.y),
-    type: 'line'
+    type: 'line',
+    type: 'line',
+  line: {
+    color: 'red'  
+  },
+  marker: {
+    color: 'black',  
+    size: 8
+  }
   }];
 
   //Sets layout parameters for our line graph
@@ -104,7 +113,7 @@ function init(){
   };
 
   //Drawing new Plotly Graph
-  Plotly.newPlot('Income', income_graph, income_graph_layout);
+  Plotly.newPlot('Income', income_trace, income_graph_layout);
   }); //end of d3 element1
 
 }
@@ -198,11 +207,21 @@ function updatePlotly(new_year) {
   sorted_income_data.sort((a, b) => a.x.localeCompare(b.x));
   
   //Sets Parameters for our line graph
-  var income_graph = [{
+  var income_trace = [{
     x: sorted_income_data.map(point => point.x),
     y: sorted_income_data.map(point => point.y),
-    type: 'line'
+    type: 'line',
+    type: 'line',
+  line: {
+    color: 'red'  
+  },
+  marker: {
+    color: 'black',  
+    size: 8
+  }
   }];
+
+
 
   //Sets layout parameters for our line graph
   var income_graph_layout = {
@@ -220,7 +239,7 @@ function updatePlotly(new_year) {
   };
 
   //Drawing new Plotly Graph
-  Plotly.newPlot('Income', income_graph, income_graph_layout);
+  Plotly.newPlot('Income', income_trace, income_graph_layout);
 
   }); //end of d3 element
 
