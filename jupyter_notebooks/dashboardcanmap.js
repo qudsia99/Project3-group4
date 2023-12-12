@@ -111,7 +111,7 @@ function optionChanged() {
         let provinceInfo = data.CrimeData.find(province => province.Province === "Ontario");
         let info = `
               <strong>${provinceInfo.Province}</strong><br>
-              <strong>Top 3 Categories of Calls made:</strong> Services, Assaults, B&E <br>
+              <strong>Top 3 Categories of Calls made:</strong> Services, Assaults, Theft <br>
               <strong>Persons with Income under $5,000: </strong> %11.7
               <strong>Mean Unemployment Rate:</strong> 5.4%`;
   
