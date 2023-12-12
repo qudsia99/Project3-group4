@@ -4,22 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- leaflet layers-->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  <!-- leaflet layers-->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
-    <!-- d3.js-->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <!-- plotly-->
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <!-- chart.js-->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
+  <!-- d3.js-->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- plotly-->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- chart.js-->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <div class="container">
@@ -32,39 +32,10 @@
       <!-- Map Column -->
       <div class="col-md-5">
         <div id="map"></div>
-    </div>
-    <div class="Crime Year">
-      <select id="selYearData" onchange="optionChanged(document.getElementById('selDataset').value,this.value)">
-          <option value="2019">2019</option>
-          <option value="2020">2020</option>
-          <option value="2021">2021</option>
-    </select>
-      <!-- Demographic Info Column -->
-    <div class="row">
-        <div class="col-md-5">
-        <div class="panel panel-primary" style="width: 18rem;">
-          <div class="panel-heading">Crime Data</div>
-          <div class="panel-body"></div>
-        </div>
-        </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-      <div class="well">
-        <select id="selDataset" onchange="optionChanged1(this.value,document.getElementById('selYearData').value)">
-          <option value="Alberta">Alberta</option>
-          <option value="British Columbia">British Columbia</option>
-          <option value="Ontario">Ontario</option>
-          <option value="Prince Edward Island">Prince Edward Island</option>
-          <option value="Nova Scotia">Nova Scotia</option>
-          <option value="Saskatchewan">Saskatchewan</option>
-          <option value="New Brunswick">New Brunswick</option>
-          <option value="Quebec">Quebec</option>
-          <option value="Manitoba">Manitoba</option>
-          <option value="Newfoundland and Labrador">Newfoundland and Labrador</option>
-        </select>
-        <div class="Income Year">
-          <select id="YearData" onchange="optionChanged2(this.value)">
+      </div>
+      <div class="col-md-5">
+        <div class="Crime Year">
+          <select id="selYearData" onchange="optionChanged(document.getElementById('selYearData').value,this.value)">
             <option value="2019">2019</option>
             <option value="2020">2020</option>
             <option value="2021">2021</option>
@@ -72,63 +43,86 @@
         </div>
       </div>
     </div>
-  </div>
-          <div class="row">
-            <div class="col-md-2">
-              <div class="well">
-              </div>
-            </div>
-            <div class="col-md-5">
-              <div id="Income"></div>
-              <div class="col-md-2">
-                
-            </div>
-          </div>
-        </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="Crime"></div> 
       </div>
-      <div class="col-md-5">
-        <div id="Income"></div>
-        <div id="Crime"></div> <!-- Added this div for the Crime graph -->
-        <div class="col-md-2">
-          <div class="Income Year">
-            <select id="selYearData" onchange="optionChanged3(document.getElementById('selDataset').value,this.value)">
-              <option value="2019">2019</option>
-              <option value="2020">2020</option>
-              <option value="2021">2021</option>
-            </select>
-          </div>
-        </div>
-        <select id="provinceSelector" onchange="updateChartForSelectedProvince(this.value)">
+      <div class="CProv">
+        <select id="province" onchange="optionChanged3(document.getElementById('province').value,this.value)">
           <option value="Alberta">Alberta</option>
           <option value="British Columbia">British Columbia</option>
           <option value="Ontario">Ontario</option>
-          <option value="Prince Edward Island">Prince Edward Island</option>
-          <option value="Nova Scotia">Nova Scotia</option>
           <option value="Saskatchewan">Saskatchewan</option>
-          <option value="New Brunswick">New Brunswick</option>
           <option value="Quebec">Quebec</option>
           <option value="Manitoba">Manitoba</option>
           <option value="Newfoundland and Labrador">Newfoundland and Labrador</option>
         </select>
-        <div class="row">
-          <div class="col-md-12">
+      </div>
+      <div class="col-md-2">
+        <div class="CYear">
+          <select id="cyear" onchange="optionChanged4(document.getElementById('cyear').value, this.value)">
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <!-- Demographic Info Column -->
+    <div class="row">
+      <div class="col-md-5">
+        <div class="panel panel-primary" style="width: 18rem;">
+          <div class="panel-body"></div>
+        </div>
+      </div>
+      <div class="col-md-2">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-5">
+        <div id="Income"></div>
+      </div>
+      <div class="Income Year">
+        <select id="YearData" onchange="optionChanged2(this.value)">
+          <option value="2019">2019</option>
+          <option value="2020">2020</option>
+          <option value="2021">2021</option>
+        </select>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-12">
               <canvas id="employmentChart"></canvas>
+            </div>
+            <div class="well">
+              <select id="provinceSelector" onchange="updateChartForSelectedProvince(this.value)">
+                <option value="Alberta">Alberta</option>
+                <option value="British Columbia">British Columbia</option>
+                <option value="Ontario">Ontario</option>
+                <option value="Prince Edward Island">Prince Edward Island</option>
+                <option value="Nova Scotia">Nova Scotia</option>
+                <option value="Saskatchewan">Saskatchewan</option>
+                <option value="New Brunswick">New Brunswick</option>
+                <option value="Quebec">Quebec</option>
+                <option value="Manitoba">Manitoba</option>
+                <option value="Newfoundland and Labrador">Newfoundland and Labrador</option>
+              </select>
           </div>
         </div>
       </div>
     </div>
-    <!-- <div class="row">
-      <div class="col-md-12">
-        <div id="bubble"></div>
-      </div>
-    </div> -->
   </div>
   <script src="Canada_Map_Leaflet.js"></script>
   <script src="IncomeJS.js"></script>
   <script src="EmploymentJS.js"></script>
-  
-</script>
-
-  
+  <script src="CrimeJS.js"></script>
 </body>
 </html>
