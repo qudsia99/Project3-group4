@@ -1,10 +1,10 @@
 //CANADA MAP
 
 // Create URL
-let baseurl2 = 'http://127.0.0.1:5000/'
+let baseurl = 'http://127.0.0.1:5000/'
 let type2 = 'api/CrimeData'
 
-let url3 = baseurl2 + type2
+let url1 = baseurl + type2
 
 // Creating a map object.
   let myMap = L.map("map", {
@@ -23,7 +23,7 @@ let ontario, alberta, manitoba, newfoundland, quebec, sask, bc;
 const markerz = {}
 
 // Grabbing the Flask-API data with d3.
-d3.json(url3).then(function(data) {
+d3.json(url1).then(function(data) {
   console.log("loading data:", data)
 
 // Create markers for each province
@@ -99,10 +99,10 @@ data.CrimeData.forEach((entry => {
   // Increment the count for the crime type in the province
   crimeCounts[province][crimeType] = (crimeCounts[province][crimeType] || 0) + 1;
 }));
-
-d3.selectAll("#yearData").on("change", optionChanged);
+});
 
 function optionChanged() {
+  d3.json(url1).then(function(data) {
   let yearmenu = d3.select('#selYearData');
   var yearselected = yearmenu.property("value");
 
@@ -350,27 +350,37 @@ function optionChanged() {
                                       bc.bindPopup(info).openPopup();
                                       });
                                     }
+                                  });
       }
-      optionChanged();
-  let provinces = ["Ontario", "Alberta","Manitoba", "Newfoundland and Labrador","Quebec","Saskatchewan","British Columbia"];
-   
-  // Close all popups when mouse moves over markup
-   ontario.on('mouseout', function (event) {console.log(event)
-    ontario.closePopup()});
-  alberta.on('mouseout', function (event) {console.log(event)
-    alberta.closePopup()});
-  manitoba.on('mouseout', function (event) {console.log(event)
-    manitoba.closePopup()});
-  newfoundland.on('mouseout', function (event) {console.log(event)
-    newfoundland.closePopup()});
-  quebec.on('mouseout', function (event) {console.log(event)
-    quebec.closePopup()});    
-  sask.on('mouseout', function (event) {console.log(event)
-    sask.closePopup()});        
-  bc.on('mouseout', function (event) {console.log(event) 
-    bc.closePopup()});
- 
+  
+  optionChanged();
 
-  });
+  function cP(){
+      d3.json(url1).then(function(data) {
+      
+        let provinces = ["Ontario", "Alberta","Manitoba", "Newfoundland and Labrador","Quebec","Saskatchewan","British Columbia"];
+       
+      // Close all popups when mouse moves over markup
+       ontario.on('mouseout', function (event) {console.log(event)
+        ontario.closePopup()});
+      alberta.on('mouseout', function (event) {console.log(event)
+        alberta.closePopup()});
+      manitoba.on('mouseout', function (event) {console.log(event)
+        manitoba.closePopup()});
+      newfoundland.on('mouseout', function (event) {console.log(event)
+        newfoundland.closePopup()});
+      quebec.on('mouseout', function (event) {console.log(event)
+        quebec.closePopup()});    
+      sask.on('mouseout', function (event) {console.log(event)
+        sask.closePopup()});        
+      bc.on('mouseout', function (event) {console.log(event) 
+        bc.closePopup()});
+      });
+
+      }
+
+    cP();
+     
+    
 
 
